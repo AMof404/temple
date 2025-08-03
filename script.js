@@ -175,8 +175,8 @@ const templeData = [
   },
   {
     "name": "Barranquilla Colombia Temple",
-    "lat": "11.01667",
-    "lng": "74.86278",
+    "lat": "11.017192973484615",
+    "lng": "-74.8617454416917",
     "year": 2018,
     "country": "Colombia"
   },
