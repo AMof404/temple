@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Temple Timelapse</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Temple Timelapse</h1>
+            
+        </header>
+        
+        <div class="map-container">
+            <div id="map"></div>
+        </div>
+        
+        <div class="timeline-container">
+            <div class="timeline-header">
+                <span id="current-year">1836</span>
+                <span id="temple-count">1 Temple</span>
+            </div>
+            <div class="timeline-slider">
+                <div class="timeline-track">
+                    <div class="timeline-fill"></div>
+                    <div class="timeline-ticks"></div>
+                    <input type="range" id="timeline" min="1836" max="2025" value="1836" class="slider">
+                    <div class="timeline-marker"></div>
+                </div>
+                <div class="timeline-labels">
+                    <span class="label-major">1836</span>
+                    <span class="label-major">1900</span>
+                    <span class="label-major">1950</span>
+                    <span class="label-major">2000</span>
+                    <span class="label-major">2025</span>
+                </div>
+            </div>
+        </div>
+        
+        <div class="controls">
+            <button id="play-btn" class="btn">Play Timeline</button>
+            <button id="reset-btn" class="btn">Reset</button>
+            <div class="toggle-container">
+                <label class="toggle-label">
+                    <input type="checkbox" id="show-undedicated" class="toggle-input">
+                    <span class="toggle-slider"></span>
+                    <span class="toggle-text">Show Undedicated Temples</span>
+                </label>
+            </div>
+        </div>
+        
+        <div class="incomplete-temples-container">
+            <h2>Additional Temples</h2>
+            <p class="table-description">The following temples' location and/or dedication date have not yet been announced:</p>
+            
+            <!-- Filter Controls -->
+            <div class="filter-controls">
+                <div class="filter-group">
+                    <label for="country-filter">Filter by Country:</label>
+                    <select id="country-filter">
+                        <option value="">All Countries</option>
+                    </select>
+                </div>
+                <div class="filter-group">
+                    <label for="type-filter">Filter by Missing Information:</label>
+                    <select id="type-filter">
+                        <option value="">All Types</option>
+                        <option value="location">Missing Location</option>
+                        <option value="year">Missing Dedication Year</option>
+                        <option value="both">Missing Both</option>
+                    </select>
+                </div>
+                <div class="filter-group">
+                    <button id="clear-filters" class="btn btn-small">Clear Filters</button>
+                </div>
+            </div>
+            
+            <div class="results-info">
+                <span id="filtered-count">Showing all incomplete temples</span>
+            </div>
+            
+            <div class="table-wrapper">
+                <table id="incomplete-temples-table">
+                    <thead>
+                        <tr>
+                            <th>Temple Name</th>
+                            <th>Country</th>
+                            <th>Missing Information</th>
+                        </tr>
+                    </thead>
+                    <tbody id="incomplete-temples-body">
+                        <!-- Table content will be populated by JavaScript -->
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <script src="script.js"></script>
+</body>
+</html> 
