@@ -1,0 +1,2676 @@
+[
+  {
+    "name": "Aba Nigeria Temple",
+    "lat": "",
+    "lng": "",
+    "year": 2005,
+    "country": "Nigeria"
+  },
+  {
+    "name": "Abidjan Ivory Coast Temple",
+    "lat": "",
+    "lng": "",
+    "year": 2025,
+    "country": "Côte d'Ivoire"
+  },
+  {
+    "name": "Abuja Nigeria Temple",
+    "lat": "",
+    "lng": "",
+    "year": null,
+    "country": "Nigeria"
+  },
+  {
+    "name": "Accra Ghana Temple",
+    "lat": "",
+    "lng": "",
+    "year": 2004,
+    "country": "Ghana"
+  },
+  {
+    "name": "Adelaide Australia Temple",
+    "lat": "",
+    "lng": "",
+    "year": 2000,
+    "country": "Australia"
+  },
+  {
+    "name": "Alabang Philippines Temple",
+    "lat": "",
+    "lng": "",
+    "year": null,
+    "country": "Philippines"
+  },
+  {
+    "name": "Albuquerque New Mexico Temple",
+    "lat": "",
+    "lng": "",
+    "year": 2000,
+    "country": "United States"
+  },
+  {
+    "name": "Anchorage Alaska Temple",
+    "lat": "",
+    "lng": "",
+    "year": 1999,
+    "country": "United States"
+  },
+  {
+    "name": "Antananarivo Madagascar Temple",
+    "lat": "",
+    "lng": "",
+    "year": null,
+    "country": "Madagascar"
+  },
+  {
+    "name": "Antofagasta Chile Temple",
+    "lat": "",
+    "lng": "",
+    "year": 2025,
+    "country": "Chile"
+  },
+  {
+    "name": "Apia Samoa Temple",
+    "lat": "",
+    "lng": "",
+    "year": 1983,
+    "country": "Samoa"
+  },
+  {
+    "name": "Arequipa Peru Temple",
+    "lat": "",
+    "lng": "",
+    "year": 2019,
+    "country": "Peru"
+  },
+  {
+    "name": "Asunción Paraguay Temple",
+    "lat": "",
+    "lng": "",
+    "year": 2002,
+    "country": "Paraguay"
+  },
+  {
+    "name": "Atlanta Georgia Temple",
+    "lat": "",
+    "lng": "",
+    "year": 1983,
+    "country": "United States"
+  },
+  {
+    "name": "Auckland New Zealand Temple",
+    "lat": "",
+    "lng": "",
+    "year": 2025,
+    "country": "New Zealand"
+  },
+  {
+    "name": "Austin Texas Temple",
+    "lat": "",
+    "lng": "",
+    "year": null,
+    "country": "United States"
+  },
+  {
+    "name": "Bacolod Philippines Temple",
+    "lat": "",
+    "lng": "",
+    "year": null,
+    "country": "Philippines"
+  },
+  {
+    "name": "Bahía Blanca Argentina Temple",
+    "lat": "",
+    "lng": "",
+    "year": null,
+    "country": "Argentina"
+  },
+  {
+    "name": "Bakersfield California Temple",
+    "lat": "",
+    "lng": "",
+    "year": null,
+    "country": "United States"
+  },
+  {
+    "name": "Bangkok Thailand Temple",
+    "lat": "",
+    "lng": "",
+    "year": 2023,
+    "country": "Thailand"
+  },
+  {
+    "name": "Barcelona Spain Temple",
+    "lat": "",
+    "lng": "",
+    "year": null,
+    "country": "Spain"
+  },
+  {
+    "name": "Barranquilla Colombia Temple",
+    "lat": "",
+    "lng": "",
+    "year": 2018,
+    "country": "Colombia"
+  },
+  {
+    "name": "Baton Rouge Louisiana Temple",
+    "lat": "",
+    "lng": "",
+    "year": 2000,
+    "country": "United States"
+  },
+  {
+    "name": "Beira Mozambique Temple",
+    "lat": "",
+    "lng": "",
+    "year": null,
+    "country": "Mozambique"
+  },
+  {
+    "name": "Belém Brazil Temple",
+    "lat": "",
+    "lng": "",
+    "year": 2022,
+    "country": "Brazil"
+  },
+  {
+    "name": "Belo Horizonte Brazil Temple",
+    "lat": "",
+    "lng": "",
+    "year": null,
+    "country": "Brazil"
+  },
+  {
+    "name": "Bengaluru India Temple",
+    "lat": "",
+    "lng": "",
+    "year": null,
+    "country": "India"
+  },
+  {
+    "name": "Benin City Nigeria Temple",
+    "lat": "",
+    "lng": "",
+    "year": null,
+    "country": "Nigeria"
+  },
+  {
+    "name": "Bentonville Arkansas Temple",
+    "lat": "",
+    "lng": "",
+    "year": 2023,
+    "country": "United States"
+  },
+  {
+    "name": "Bern Switzerland Temple",
+    "lat": "",
+    "lng": "",
+    "year": 1955,
+    "country": "Switzerland"
+  },
+  {
+    "name": "Billings Montana Temple",
+    "lat": "",
+    "lng": "",
+    "year": 1999,
+    "country": "United States"
+  },
+  {
+    "name": "Birmingham Alabama Temple",
+    "lat": "",
+    "lng": "",
+    "year": 2000,
+    "country": "United States"
+  },
+  {
+    "name": "Birmingham England Temple",
+    "lat": "",
+    "lng": "",
+    "year": null,
+    "country": "United Kingdom"
+  },
+  {
+    "name": "Bismarck North Dakota Temple",
+    "lat": "",
+    "lng": "",
+    "year": 1999,
+    "country": "United States"
+  },
+  {
+    "name": "Bogotá Colombia Temple",
+    "lat": "",
+    "lng": "",
+    "year": 1999,
+    "country": "Colombia"
+  },
+  {
+    "name": "Boise Idaho Temple",
+    "lat": "",
+    "lng": "",
+    "year": 1984,
+    "country": "United States"
+  },
+  {
+    "name": "Boston Massachusetts Temple",
+    "lat": "",
+    "lng": "",
+    "year": 2000,
+    "country": "United States"
+  },
+  {
+    "name": "Bountiful Utah Temple",
+    "lat": "",
+    "lng": "",
+    "year": 1995,
+    "country": "United States"
+  },
+  {
+    "name": "Brasília Brazil Temple",
+    "lat": "",
+    "lng": "",
+    "year": 2023,
+    "country": "Brazil"
+  },
+  {
+    "name": "Brazzaville Republic of the Congo Temple",
+    "lat": "",
+    "lng": "",
+    "year": null,
+    "country": "Republic of the Congo"
+  },
+  {
+    "name": "Brigham City Utah Temple",
+    "lat": "",
+    "lng": "",
+    "year": 2012,
+    "country": "United States"
+  },
+  {
+    "name": "Brisbane Australia South Temple",
+    "lat": "",
+    "lng": "",
+    "year": null,
+    "country": "Australia"
+  },
+  {
+    "name": "Brisbane Australia Temple",
+    "lat": "",
+    "lng": "",
+    "year": 2003,
+    "country": "Australia"
+  },
+  {
+    "name": "Brussels Belgium Temple",
+    "lat": "",
+    "lng": "",
+    "year": null,
+    "country": "Belgium"
+  },
+  {
+    "name": "Budapest Hungary Temple",
+    "lat": "",
+    "lng": "",
+    "year": null,
+    "country": "Hungary"
+  },
+  {
+    "name": "Buenos Aires Argentina Temple",
+    "lat": "",
+    "lng": "",
+    "year": 1986,
+    "country": "Argentina"
+  },
+  {
+    "name": "Buenos Aires City Center Argentina Temple",
+    "lat": "",
+    "lng": "",
+    "year": null,
+    "country": "Argentina"
+  },
+  {
+    "name": "Burley Idaho Temple",
+    "lat": "",
+    "lng": "",
+    "year": null,
+    "country": "United States"
+  },
+  {
+    "name": "Busan Korea Temple",
+    "lat": "",
+    "lng": "",
+    "year": null,
+    "country": "South Korea"
+  },
+  {
+    "name": "Cagayan de Oro Philippines Temple",
+    "lat": "",
+    "lng": "",
+    "year": null,
+    "country": "Philippines"
+  },
+  {
+    "name": "Calabar Nigeria Temple",
+    "lat": "",
+    "lng": "",
+    "year": null,
+    "country": "Nigeria"
+  },
+  {
+    "name": "Caldwell Idaho Temple",
+    "lat": "",
+    "lng": "",
+    "year": null,
+    "country": "United States"
+  },
+  {
+    "name": "Calgary Alberta Temple",
+    "lat": "",
+    "lng": "",
+    "year": 2012,
+    "country": "Canada"
+  },
+  {
+    "name": "Cali Colombia Temple",
+    "lat": "",
+    "lng": "",
+    "year": null,
+    "country": "Colombia"
+  },
+  {
+    "name": "Campinas Brazil Temple",
+    "lat": "",
+    "lng": "",
+    "year": 2002,
+    "country": "Brazil"
+  },
+  {
+    "name": "Campo Grande Brazil Temple",
+    "lat": "",
+    "lng": "",
+    "year": null,
+    "country": "Brazil"
+  },
+  {
+    "name": "Cancún Mexico Temple",
+    "lat": "",
+    "lng": "",
+    "year": null,
+    "country": "Mexico"
+  },
+  {
+    "name": "Cape Coast Ghana Temple",
+    "lat": "",
+    "lng": "",
+    "year": null,
+    "country": "Ghana"
+  },
+  {
+    "name": "Cape Town South Africa Temple",
+    "lat": "",
+    "lng": "",
+    "year": null,
+    "country": "South Africa"
+  },
+  {
+    "name": "Caracas Venezuela Temple",
+    "lat": "",
+    "lng": "",
+    "year": 2000,
+    "country": "Venezuela"
+  },
+  {
+    "name": "Cardston Alberta Temple",
+    "lat": "",
+    "lng": "",
+    "year": 1923,
+    "country": "Canada"
+  },
+  {
+    "name": "Casper Wyoming Temple",
+    "lat": "",
+    "lng": "",
+    "year": 2024,
+    "country": "United States"
+  },
+  {
+    "name": "Cebu City Philippines Temple",
+    "lat": "",
+    "lng": "",
+    "year": 2010,
+    "country": "Philippines"
+  },
+  {
+    "name": "Cedar City Utah Temple",
+    "lat": "",
+    "lng": "",
+    "year": 2017,
+    "country": "United States"
+  },
+  {
+    "name": "Charlotte North Carolina Temple",
+    "lat": "",
+    "lng": "",
+    "year": null,
+    "country": "United States"
+  },
+  {
+    "name": "Chicago Illinois Temple",
+    "lat": "",
+    "lng": "",
+    "year": 1985,
+    "country": "United States"
+  },
+  {
+    "name": "Chiclayo Peru Temple",
+    "lat": "",
+    "lng": "",
+    "year": null,
+    "country": "Peru"
+  },
+  {
+    "name": "Chihuahua Mexico Temple",
+    "lat": "",
+    "lng": "",
+    "year": null,
+    "country": "Mexico"
+  },
+  {
+    "name": "Chorrillos Peru Temple",
+    "lat": "",
+    "lng": "",
+    "year": null,
+    "country": "Peru"
+  },
+  {
+    "name": "Cincinnati Ohio Temple",
+    "lat": "",
+    "lng": "",
+    "year": null,
+    "country": "United States"
+  },
+  {
+    "name": "Ciudad Juárez Mexico Temple",
+    "lat": "",
+    "lng": "",
+    "year": 2000,
+    "country": "Mexico"
+  },
+  {
+    "name": "Cleveland Ohio Temple",
+    "lat": "",
+    "lng": "",
+    "year": null,
+    "country": "United States"
+  },
+  {
+    "name": "Cobán Guatemala Temple",
+    "lat": "",
+    "lng": "",
+    "year": 2024,
+    "country": "Guatemala"
+  },
+  {
+    "name": "Cochabamba Bolivia Temple",
+    "lat": "",
+    "lng": "",
+    "year": 2000,
+    "country": "Bolivia"
+  },
+  {
+    "name": "Cody Wyoming Temple",
+    "lat": "",
+    "lng": "",
+    "year": null,
+    "country": "United States"
+  },
+  {
+    "name": "Coeur d'Alene Idaho Temple",
+    "lat": "",
+    "lng": "",
+    "year": null,
+    "country": "United States"
+  },
+  {
+    "name": "Colonia Juárez Chihuahua Mexico Temple",
+    "lat": "",
+    "lng": "",
+    "year": 1999,
+    "country": "Mexico"
+  },
+  {
+    "name": "Colorado Springs Colorado Temple",
+    "lat": "",
+    "lng": "",
+    "year": null,
+    "country": "United States"
+  },
+  {
+    "name": "Columbia River Washington Temple",
+    "lat": "",
+    "lng": "",
+    "year": 2001,
+    "country": "United States"
+  },
+  {
+    "name": "Columbia South Carolina Temple",
+    "lat": "",
+    "lng": "",
+    "year": 1999,
+    "country": "United States"
+  },
+  {
+    "name": "Columbus Ohio Temple",
+    "lat": "",
+    "lng": "",
+    "year": 1999,
+    "country": "United States"
+  },
+  {
+    "name": "Concepción Chile Temple",
+    "lat": "",
+    "lng": "",
+    "year": 2018,
+    "country": "Chile"
+  },
+  {
+    "name": "Copenhagen Denmark Temple",
+    "lat": "",
+    "lng": "",
+    "year": 2004,
+    "country": "Denmark"
+  },
+  {
+    "name": "Córdoba Argentina Temple",
+    "lat": "",
+    "lng": "",
+    "year": 2015,
+    "country": "Argentina"
+  },
+  {
+    "name": "Cuernavaca Mexico Temple",
+    "lat": "",
+    "lng": "",
+    "year": null,
+    "country": "Mexico"
+  },
+  {
+    "name": "Culiacán Mexico Temple",
+    "lat": "",
+    "lng": "",
+    "year": null,
+    "country": "Mexico"
+  },
+  {
+    "name": "Curitiba Brazil Temple",
+    "lat": "",
+    "lng": "",
+    "year": 2008,
+    "country": "Brazil"
+  },
+  {
+    "name": "Cusco Peru Temple",
+    "lat": "",
+    "lng": "",
+    "year": null,
+    "country": "Peru"
+  },
+  {
+    "name": "Dallas Texas Temple",
+    "lat": "",
+    "lng": "",
+    "year": 1984,
+    "country": "United States"
+  },
+  {
+    "name": "Davao Philippines Temple",
+    "lat": "",
+    "lng": "",
+    "year": null,
+    "country": "Philippines"
+  },
+  {
+    "name": "Denver Colorado Temple",
+    "lat": "",
+    "lng": "",
+    "year": 1986,
+    "country": "United States"
+  },
+  {
+    "name": "Des Moines Iowa Temple",
+    "lat": "",
+    "lng": "",
+    "year": null,
+    "country": "United States"
+  },
+  {
+    "name": "Deseret Peak Utah Temple",
+    "lat": "",
+    "lng": "",
+    "year": 2024,
+    "country": "United States"
+  },
+  {
+    "name": "Detroit Michigan Temple",
+    "lat": "",
+    "lng": "",
+    "year": 1999,
+    "country": "United States"
+  },
+  {
+    "name": "Draper Utah Temple",
+    "lat": "",
+    "lng": "",
+    "year": 2009,
+    "country": "United States"
+  },
+  {
+    "name": "Dubai United Arab Emirates Temple",
+    "lat": "",
+    "lng": "",
+    "year": null,
+    "country": "United Arab Emirates"
+  },
+  {
+    "name": "Dublin Ireland Temple",
+    "lat": "",
+    "lng": "",
+    "year": null,
+    "country": "Ireland"
+  },
+  {
+    "name": "Durban South Africa Temple",
+    "lat": "",
+    "lng": "",
+    "year": 2020,
+    "country": "South Africa"
+  },
+  {
+    "name": "Edinburgh Scotland Temple",
+    "lat": "",
+    "lng": "",
+    "year": null,
+    "country": "United Kingdom"
+  },
+  {
+    "name": "Edmonton Alberta Temple",
+    "lat": "",
+    "lng": "",
+    "year": 1999,
+    "country": "Canada"
+  },
+  {
+    "name": "Eket Nigeria Temple",
+    "lat": "",
+    "lng": "",
+    "year": null,
+    "country": "Nigeria"
+  },
+  {
+    "name": "El Paso Texas Temple",
+    "lat": "",
+    "lng": "",
+    "year": null,
+    "country": "United States"
+  },
+  {
+    "name": "Elko Nevada Temple",
+    "lat": "",
+    "lng": "",
+    "year": null,
+    "country": "United States"
+  },
+  {
+    "name": "Ephraim Utah Temple",
+    "lat": "",
+    "lng": "",
+    "year": null,
+    "country": "United States"
+  },
+  {
+    "name": "Fairbanks Alaska Temple",
+    "lat": "",
+    "lng": "",
+    "year": null,
+    "country": "United States"
+  },
+  {
+    "name": "Fairview Texas Temple",
+    "lat": "",
+    "lng": "",
+    "year": null,
+    "country": "United States"
+  },
+  {
+    "name": "Farmington New Mexico Temple",
+    "lat": "",
+    "lng": "",
+    "year": null,
+    "country": "United States"
+  },
+  {
+    "name": "Feather River California Temple",
+    "lat": "",
+    "lng": "",
+    "year": 2023,
+    "country": "United States"
+  },
+  {
+    "name": "Flagstaff Arizona Temple",
+    "lat": "",
+    "lng": "",
+    "year": null,
+    "country": "United States"
+  },
+  {
+    "name": "Florianópolis Brazil Temple",
+    "lat": "",
+    "lng": "",
+    "year": null,
+    "country": "Brazil"
+  },
+  {
+    "name": "Fort Collins Colorado Temple",
+    "lat": "",
+    "lng": "",
+    "year": 2016,
+    "country": "United States"
+  },
+  {
+    "name": "Fort Lauderdale Florida Temple",
+    "lat": "",
+    "lng": "",
+    "year": 2014,
+    "country": "United States"
+  },
+  {
+    "name": "Fort Worth Texas Temple",
+    "lat": "",
+    "lng": "",
+    "year": null,
+    "country": "United States"
+  },
+  {
+    "name": "Fortaleza Brazil Temple",
+    "lat": "",
+    "lng": "",
+    "year": 2019,
+    "country": "Brazil"
+  },
+  {
+    "name": "Frankfurt Germany Temple",
+    "lat": "",
+    "lng": "",
+    "year": 1987,
+    "country": "Germany"
+  },
+  {
+    "name": "Freetown Sierra Leone Temple",
+    "lat": "",
+    "lng": "",
+    "year": null,
+    "country": "Sierra Leone"
+  },
+  {
+    "name": "Freiberg Germany Temple",
+    "lat": "",
+    "lng": "",
+    "year": 1985,
+    "country": "Germany"
+  },
+  {
+    "name": "Fresno California Temple",
+    "lat": "",
+    "lng": "",
+    "year": 2000,
+    "country": "United States"
+  },
+  {
+    "name": "Fukuoka Japan Temple",
+    "lat": "",
+    "lng": "",
+    "year": 2000,
+    "country": "Japan"
+  },
+  {
+    "name": "Gilbert Arizona Temple",
+    "lat": "",
+    "lng": "",
+    "year": 2014,
+    "country": "United States"
+  },
+  {
+    "name": "Goiânia Brazil Temple",
+    "lat": "",
+    "lng": "",
+    "year": null,
+    "country": "Brazil"
+  },
+  {
+    "name": "Grand Junction Colorado Temple",
+    "lat": "",
+    "lng": "",
+    "year": null,
+    "country": "United States"
+  },
+  {
+    "name": "Grand Rapids Michigan Temple",
+    "lat": "",
+    "lng": "",
+    "year": null,
+    "country": "United States"
+  },
+  {
+    "name": "Greenville South Carolina Temple",
+    "lat": "",
+    "lng": "",
+    "year": null,
+    "country": "United States"
+  },
+  {
+    "name": "Guadalajara Mexico Temple",
+    "lat": "",
+    "lng": "",
+    "year": 2001,
+    "country": "Mexico"
+  },
+  {
+    "name": "Guatemala City Guatemala Temple",
+    "lat": "",
+    "lng": "",
+    "year": 1984,
+    "country": "Guatemala"
+  },
+  {
+    "name": "Guayaquil Ecuador Temple",
+    "lat": "",
+    "lng": "",
+    "year": 1999,
+    "country": "Ecuador"
+  },
+  {
+    "name": "Halifax Nova Scotia Temple",
+    "lat": "",
+    "lng": "",
+    "year": 1999,
+    "country": "Canada"
+  },
+  {
+    "name": "Hamburg Germany Temple",
+    "lat": "",
+    "lng": "",
+    "year": null,
+    "country": "Germany"
+  },
+  {
+    "name": "Hamilton New Zealand Temple",
+    "lat": "",
+    "lng": "",
+    "year": 1958,
+    "country": "New Zealand"
+  },
+  {
+    "name": "Harare Zimbabwe Temple",
+    "lat": "",
+    "lng": "",
+    "year": null,
+    "country": "Zimbabwe"
+  },
+  {
+    "name": "Harrisburg Pennsylvania Temple",
+    "lat": "",
+    "lng": "",
+    "year": null,
+    "country": "United States"
+  },
+  {
+    "name": "Hartford Connecticut Temple",
+    "lat": "",
+    "lng": "",
+    "year": 2016,
+    "country": "United States"
+  },
+  {
+    "name": "Heber Valley Utah Temple",
+    "lat": "",
+    "lng": "",
+    "year": null,
+    "country": "United States"
+  },
+  {
+    "name": "Helena Montana Temple",
+    "lat": "",
+    "lng": "",
+    "year": 2023,
+    "country": "United States"
+  },
+  {
+    "name": "Helsinki Finland Temple",
+    "lat": "",
+    "lng": "",
+    "year": 2006,
+    "country": "Finland"
+  },
+  {
+    "name": "Hermosillo Sonora Mexico Temple",
+    "lat": "",
+    "lng": "",
+    "year": 2000,
+    "country": "Mexico"
+  },
+  {
+    "name": "Hong Kong China Temple",
+    "lat": "",
+    "lng": "",
+    "year": 1996,
+    "country": "Hong Kong"
+  },
+  {
+    "name": "Honolulu Hawaii Temple",
+    "lat": "",
+    "lng": "",
+    "year": null,
+    "country": "United States"
+  },
+  {
+    "name": "Houston Texas South Temple",
+    "lat": "",
+    "lng": "",
+    "year": null,
+    "country": "United States"
+  },
+  {
+    "name": "Houston Texas Temple",
+    "lat": "",
+    "lng": "",
+    "year": 2000,
+    "country": "United States"
+  },
+  {
+    "name": "Huancayo Peru Temple",
+    "lat": "",
+    "lng": "",
+    "year": null,
+    "country": "Peru"
+  },
+  {
+    "name": "Huehuetenango Guatemala Temple",
+    "lat": "",
+    "lng": "",
+    "year": null,
+    "country": "Guatemala"
+  },
+  {
+    "name": "Huntsville Alabama Temple",
+    "lat": "",
+    "lng": "",
+    "year": null,
+    "country": "United States"
+  },
+  {
+    "name": "Idaho Falls Idaho Temple",
+    "lat": "",
+    "lng": "",
+    "year": 1945,
+    "country": "United States"
+  },
+  {
+    "name": "Iloilo Philippines Temple",
+    "lat": "",
+    "lng": "",
+    "year": null,
+    "country": "Philippines"
+  },
+  {
+    "name": "Indianapolis Indiana Temple",
+    "lat": "",
+    "lng": "",
+    "year": 2015,
+    "country": "United States"
+  },
+  {
+    "name": "Iquitos Peru Temple",
+    "lat": "",
+    "lng": "",
+    "year": null,
+    "country": "Peru"
+  },
+  {
+    "name": "Jacksonville Florida Temple",
+    "lat": "",
+    "lng": "",
+    "year": null,
+    "country": "United States"
+  },
+  {
+    "name": "Jakarta Indonesia Temple",
+    "lat": "",
+    "lng": "",
+    "year": null,
+    "country": "Indonesia"
+  },
+  {
+    "name": "João Pessoa Brazil Temple",
+    "lat": "",
+    "lng": "",
+    "year": null,
+    "country": "Brazil"
+  },
+  {
+    "name": "Johannesburg South Africa Temple",
+    "lat": "",
+    "lng": "",
+    "year": 1985,
+    "country": "South Africa"
+  },
+  {
+    "name": "Jordan River Utah Temple",
+    "lat": "",
+    "lng": "",
+    "year": 1981,
+    "country": "United States"
+  },
+  {
+    "name": "Juchitán de Zaragoza Mexico Temple",
+    "lat": "",
+    "lng": "",
+    "year": null,
+    "country": "Mexico"
+  },
+  {
+    "name": "Kahului Hawaii Temple",
+    "lat": "",
+    "lng": "",
+    "year": null,
+    "country": "United States"
+  },
+  {
+    "name": "Kampala Uganda Temple",
+    "lat": "",
+    "lng": "",
+    "year": null,
+    "country": "Uganda"
+  },
+  {
+    "name": "Kananga Democratic Republic of the Congo Temple",
+    "lat": "",
+    "lng": "",
+    "year": null,
+    "country": "Democratic Republic of the Congo"
+  },
+  {
+    "name": "Kansas City Missouri Temple",
+    "lat": "",
+    "lng": "",
+    "year": 2012,
+    "country": "United States"
+  },
+  {
+    "name": "Kaohsiung Taiwan Temple",
+    "lat": "",
+    "lng": "",
+    "year": null,
+    "country": "Taiwan"
+  },
+  {
+    "name": "Kinshasa Democratic Republic of the Congo Temple",
+    "lat": "",
+    "lng": "",
+    "year": 2019,
+    "country": "Democratic Republic of the Congo"
+  },
+  {
+    "name": "Knoxville Tennessee Temple",
+    "lat": "",
+    "lng": "",
+    "year": null,
+    "country": "United States"
+  },
+  {
+    "name": "Kona Hawaii Temple",
+    "lat": "",
+    "lng": "",
+    "year": null,
+    "country": "United States"
+  },
+  {
+    "name": "Kumasi Ghana Temple",
+    "lat": "",
+    "lng": "",
+    "year": null,
+    "country": "Ghana"
+  },
+  {
+    "name": "Kyiv Ukraine Temple",
+    "lat": "",
+    "lng": "",
+    "year": 2010,
+    "country": "Ukraine"
+  },
+  {
+    "name": "La Paz Bolivia Temple",
+    "lat": "",
+    "lng": "",
+    "year": null,
+    "country": "Bolivia"
+  },
+  {
+    "name": "Lagos Nigeria Temple",
+    "lat": "",
+    "lng": "",
+    "year": null,
+    "country": "Nigeria"
+  },
+  {
+    "name": "Laie Hawaii Temple",
+    "lat": "",
+    "lng": "",
+    "year": 1919,
+    "country": "United States"
+  },
+  {
+    "name": "Laoag Philippines Temple",
+    "lat": "",
+    "lng": "",
+    "year": null,
+    "country": "Philippines"
+  },
+  {
+    "name": "Las Vegas Nevada Temple",
+    "lat": "",
+    "lng": "",
+    "year": 1989,
+    "country": "United States"
+  },
+  {
+    "name": "Layton Utah Temple",
+    "lat": "",
+    "lng": "",
+    "year": 2024,
+    "country": "United States"
+  },
+  {
+    "name": "Lehi Utah Temple",
+    "lat": "",
+    "lng": "",
+    "year": null,
+    "country": "United States"
+  },
+  {
+    "name": "Lethbridge Alberta Temple",
+    "lat": "",
+    "lng": "",
+    "year": null,
+    "country": "Canada"
+  },
+  {
+    "name": "Lima Peru Los Olivos Temple",
+    "lat": "",
+    "lng": "",
+    "year": 2024,
+    "country": "Peru"
+  },
+  {
+    "name": "Lima Peru Temple",
+    "lat": "",
+    "lng": "",
+    "year": 1986,
+    "country": "Peru"
+  },
+  {
+    "name": "Lindon Utah Temple",
+    "lat": "",
+    "lng": "",
+    "year": null,
+    "country": "United States"
+  },
+  {
+    "name": "Lisbon Portugal Temple",
+    "lat": "",
+    "lng": "",
+    "year": 2019,
+    "country": "Portugal"
+  },
+  {
+    "name": "Liverpool Australia Temple",
+    "lat": "",
+    "lng": "",
+    "year": null,
+    "country": "Australia"
+  },
+  {
+    "name": "Logan Utah Temple",
+    "lat": "",
+    "lng": "",
+    "year": 1884,
+    "country": "United States"
+  },
+  {
+    "name": "London England Temple",
+    "lat": "",
+    "lng": "",
+    "year": 1958,
+    "country": "England"
+  },
+  {
+    "name": "Londrina Brazil Temple",
+    "lat": "",
+    "lng": "",
+    "year": null,
+    "country": "Brazil"
+  },
+  {
+    "name": "Lone Mountain Nevada Temple",
+    "lat": "",
+    "lng": "",
+    "year": null,
+    "country": "United States"
+  },
+  {
+    "name": "Los Angeles California Temple",
+    "lat": "",
+    "lng": "",
+    "year": 1956,
+    "country": "United States"
+  },
+  {
+    "name": "Louisville Kentucky Temple",
+    "lat": "",
+    "lng": "",
+    "year": 2000,
+    "country": "United States"
+  },
+  {
+    "name": "Luanda Angola Temple",
+    "lat": "",
+    "lng": "",
+    "year": null,
+    "country": "Angola"
+  },
+  {
+    "name": "Lubbock Texas Temple",
+    "lat": "",
+    "lng": "",
+    "year": 2002,
+    "country": "United States"
+  },
+  {
+    "name": "Lubumbashi Democratic Republic of the Congo Temple",
+    "lat": "",
+    "lng": "",
+    "year": null,
+    "country": "Democratic Republic of the Congo"
+  },
+  {
+    "name": "Maceió Brazil Temple",
+    "lat": "",
+    "lng": "",
+    "year": null,
+    "country": "Brazil"
+  },
+  {
+    "name": "Madrid Spain Temple",
+    "lat": "",
+    "lng": "",
+    "year": 1999,
+    "country": "Spain"
+  },
+  {
+    "name": "Managua Nicaragua Temple",
+    "lat": "",
+    "lng": "",
+    "year": null,
+    "country": "Nicaragua"
+  },
+  {
+    "name": "Manaus Brazil Temple",
+    "lat": "",
+    "lng": "",
+    "year": 2012,
+    "country": "Brazil"
+  },
+  {
+    "name": "Manhattan New York Temple",
+    "lat": "",
+    "lng": "",
+    "year": null,
+    "country": "United States"
+  },
+  {
+    "name": "Manila Philippines Temple",
+    "lat": "",
+    "lng": "",
+    "year": 1984,
+    "country": "Philippines"
+  },
+  {
+    "name": "Manti Utah Temple",
+    "lat": "",
+    "lng": "",
+    "year": 1888,
+    "country": "United States"
+  },
+  {
+    "name": "Maputo Mozambique Temple",
+    "lat": "",
+    "lng": "",
+    "year": null,
+    "country": "Mozambique"
+  },
+  {
+    "name": "Maracaibo Venezuela Temple",
+    "lat": "",
+    "lng": "",
+    "year": null,
+    "country": "Venezuela"
+  },
+  {
+    "name": "Mbuji-Mayi Democratic Republic of the Congo Temple",
+    "lat": "",
+    "lng": "",
+    "year": null,
+    "country": "Democratic Republic of the Congo"
+  },
+  {
+    "name": "McAllen Texas Temple",
+    "lat": "",
+    "lng": "",
+    "year": 2023,
+    "country": "United States"
+  },
+  {
+    "name": "Medellín Colombia Temple",
+    "lat": "",
+    "lng": "",
+    "year": null,
+    "country": "Colombia"
+  },
+  {
+    "name": "Medford Oregon Temple",
+    "lat": "",
+    "lng": "",
+    "year": 2000,
+    "country": "United States"
+  },
+  {
+    "name": "Melbourne Australia Temple",
+    "lat": "",
+    "lng": "",
+    "year": 2000,
+    "country": "Australia"
+  },
+  {
+    "name": "Memphis Tennessee Temple",
+    "lat": "",
+    "lng": "",
+    "year": 2000,
+    "country": "United States"
+  },
+  {
+    "name": "Mendoza Argentina Temple",
+    "lat": "",
+    "lng": "",
+    "year": 2024,
+    "country": "Argentina"
+  },
+  {
+    "name": "Mérida Mexico Temple",
+    "lat": "",
+    "lng": "",
+    "year": 2000,
+    "country": "Mexico"
+  },
+  {
+    "name": "Meridian Idaho Temple",
+    "lat": "",
+    "lng": "",
+    "year": 2017,
+    "country": "United States"
+  },
+  {
+    "name": "Mesa Arizona Temple",
+    "lat": "",
+    "lng": "",
+    "year": 1927,
+    "country": "United States"
+  },
+  {
+    "name": "Mexico City Benemérito Mexico Temple",
+    "lat": "",
+    "lng": "",
+    "year": null,
+    "country": "Mexico"
+  },
+  {
+    "name": "Mexico City Mexico Temple",
+    "lat": "",
+    "lng": "",
+    "year": 1983,
+    "country": "Mexico"
+  },
+  {
+    "name": "Milan Italy Temple",
+    "lat": "",
+    "lng": "",
+    "year": null,
+    "country": "Italy"
+  },
+  {
+    "name": "Milwaukee Wisconsin Temple",
+    "lat": "",
+    "lng": "",
+    "year": null,
+    "country": "United States"
+  },
+  {
+    "name": "Miraflores Guatemala City Guatemala Temple",
+    "lat": "",
+    "lng": "",
+    "year": null,
+    "country": "Guatemala"
+  },
+  {
+    "name": "Missoula Montana Temple",
+    "lat": "",
+    "lng": "",
+    "year": null,
+    "country": "United States"
+  },
+  {
+    "name": "Modesto California Temple",
+    "lat": "",
+    "lng": "",
+    "year": null,
+    "country": "United States"
+  },
+  {
+    "name": "Monrovia Liberia Temple",
+    "lat": "",
+    "lng": "",
+    "year": null,
+    "country": "Liberia"
+  },
+  {
+    "name": "Monterrey Mexico Temple",
+    "lat": "",
+    "lng": "",
+    "year": 2002,
+    "country": "Mexico"
+  },
+  {
+    "name": "Montevideo Uruguay Temple",
+    "lat": "",
+    "lng": "",
+    "year": 2001,
+    "country": "Uruguay"
+  },
+  {
+    "name": "Monticello Utah Temple",
+    "lat": "",
+    "lng": "",
+    "year": 1998,
+    "country": "United States"
+  },
+  {
+    "name": "Montpelier Idaho Temple",
+    "lat": "",
+    "lng": "",
+    "year": null,
+    "country": "United States"
+  },
+  {
+    "name": "Montreal Quebec Temple",
+    "lat": "",
+    "lng": "",
+    "year": 2000,
+    "country": "Canada"
+  },
+  {
+    "name": "Moses Lake Washington Temple",
+    "lat": "",
+    "lng": "",
+    "year": 2023,
+    "country": "United States"
+  },
+  {
+    "name": "Mount Timpanogos Utah Temple",
+    "lat": "",
+    "lng": "",
+    "year": 1996,
+    "country": "United States"
+  },
+  {
+    "name": "Naga Philippines Temple",
+    "lat": "",
+    "lng": "",
+    "year": null,
+    "country": "Philippines"
+  },
+  {
+    "name": "Nairobi Kenya Temple",
+    "lat": "",
+    "lng": "",
+    "year": 2025,
+    "country": "Kenya"
+  },
+  {
+    "name": "Nashville Tennessee Temple",
+    "lat": "",
+    "lng": "",
+    "year": 2000,
+    "country": "United States"
+  },
+  {
+    "name": "Natal Brazil Temple",
+    "lat": "",
+    "lng": "",
+    "year": null,
+    "country": "Brazil"
+  },
+  {
+    "name": "Nauvoo Illinois Temple",
+    "lat": "",
+    "lng": "",
+    "year": 2002,
+    "country": "United States"
+  },
+  {
+    "name": "Neiafu Tonga Temple",
+    "lat": "",
+    "lng": "",
+    "year": null,
+    "country": "Tonga"
+  },
+  {
+    "name": "Newport Beach California Temple",
+    "lat": "",
+    "lng": "",
+    "year": 2005,
+    "country": "United States"
+  },
+  {
+    "name": "Norfolk Virginia Temple",
+    "lat": "",
+    "lng": "",
+    "year": null,
+    "country": "United States"
+  },
+  {
+    "name": "Nouméa New Caledonia Temple",
+    "lat": "",
+    "lng": "",
+    "year": null,
+    "country": "New Caledonia"
+  },
+  {
+    "name": "Nuku'alofa Tonga Temple",
+    "lat": "",
+    "lng": "",
+    "year": 1983,
+    "country": "Tonga"
+  },
+  {
+    "name": "Oakland California Temple",
+    "lat": "",
+    "lng": "",
+    "year": 1964,
+    "country": "United States"
+  },
+  {
+    "name": "Oaxaca Mexico Temple",
+    "lat": "",
+    "lng": "",
+    "year": 2000,
+    "country": "Mexico"
+  },
+  {
+    "name": "Ogden Utah Temple",
+    "lat": "",
+    "lng": "",
+    "year": 1972,
+    "country": "United States"
+  },
+  {
+    "name": "Okinawa Japan Temple",
+    "lat": "",
+    "lng": "",
+    "year": 2023,
+    "country": "Japan"
+  },
+  {
+    "name": "Oklahoma City Oklahoma Temple",
+    "lat": "",
+    "lng": "",
+    "year": 2000,
+    "country": "United States"
+  },
+  {
+    "name": "Oquirrh Mountain Utah Temple",
+    "lat": "",
+    "lng": "",
+    "year": 2009,
+    "country": "United States"
+  },
+  {
+    "name": "Orem Utah Temple",
+    "lat": "",
+    "lng": "",
+    "year": 2024,
+    "country": "United States"
+  },
+  {
+    "name": "Orlando Florida Temple",
+    "lat": "",
+    "lng": "",
+    "year": null,
+    "country": "United States"
+  },
+  {
+    "name": "Osaka Japan Temple",
+    "lat": "",
+    "lng": "",
+    "year": null,
+    "country": "Japan"
+  },
+  {
+    "name": "Oslo Norway Temple",
+    "lat": "",
+    "lng": "",
+    "year": null,
+    "country": "Norway"
+  },
+  {
+    "name": "Pachuca Mexico Temple",
+    "lat": "",
+    "lng": "",
+    "year": null,
+    "country": "Mexico"
+  },
+  {
+    "name": "Pago Pago American Samoa Temple",
+    "lat": "",
+    "lng": "",
+    "year": null,
+    "country": "American Samoa"
+  },
+  {
+    "name": "Palmyra New York Temple",
+    "lat": "",
+    "lng": "",
+    "year": 2000,
+    "country": "United States"
+  },
+  {
+    "name": "Panama City Panama Temple",
+    "lat": "",
+    "lng": "",
+    "year": 2008,
+    "country": "Panama"
+  },
+  {
+    "name": "Papeete Tahiti Temple",
+    "lat": "",
+    "lng": "",
+    "year": 1983,
+    "country": "French Polynesia"
+  },
+  {
+    "name": "Paris France Temple",
+    "lat": "",
+    "lng": "",
+    "year": 2017,
+    "country": "France"
+  },
+  {
+    "name": "Payson Utah Temple",
+    "lat": "",
+    "lng": "",
+    "year": 2015,
+    "country": "United States"
+  },
+  {
+    "name": "Perth Australia Temple",
+    "lat": "",
+    "lng": "",
+    "year": 2001,
+    "country": "Australia"
+  },
+  {
+    "name": "Philadelphia Pennsylvania Temple",
+    "lat": "",
+    "lng": "",
+    "year": 2016,
+    "country": "United States"
+  },
+  {
+    "name": "Phnom Penh Cambodia Temple",
+    "lat": "",
+    "lng": "",
+    "year": null,
+    "country": "Cambodia"
+  },
+  {
+    "name": "Phoenix Arizona Temple",
+    "lat": "",
+    "lng": "",
+    "year": 2014,
+    "country": "United States"
+  },
+  {
+    "name": "Pittsburgh Pennsylvania Temple",
+    "lat": "",
+    "lng": "",
+    "year": 2024,
+    "country": "United States"
+  },
+  {
+    "name": "Piura Peru Temple",
+    "lat": "",
+    "lng": "",
+    "year": null,
+    "country": "Peru"
+  },
+  {
+    "name": "Pocatello Idaho Temple",
+    "lat": "",
+    "lng": "",
+    "year": 2021,
+    "country": "United States"
+  },
+  {
+    "name": "Port Moresby Papua New Guinea Temple",
+    "lat": "",
+    "lng": "",
+    "year": null,
+    "country": "Papua New Guinea"
+  },
+  {
+    "name": "Port Vila Vanuatu Temple",
+    "lat": "",
+    "lng": "",
+    "year": null,
+    "country": "Vanuatu"
+  },
+  {
+    "name": "Port-au-Prince Haiti Temple",
+    "lat": "",
+    "lng": "",
+    "year": 2019,
+    "country": "Haiti"
+  },
+  {
+    "name": "Portland Oregon Temple",
+    "lat": "",
+    "lng": "",
+    "year": 1989,
+    "country": "United States"
+  },
+  {
+    "name": "Porto Alegre Brazil Temple",
+    "lat": "",
+    "lng": "",
+    "year": 2000,
+    "country": "Brazil"
+  },
+  {
+    "name": "Porto Portugal Temple",
+    "lat": "",
+    "lng": "",
+    "year": null,
+    "country": "Portugal"
+  },
+  {
+    "name": "Praia Cape Verde Temple",
+    "lat": "",
+    "lng": "",
+    "year": 2022,
+    "country": "Cape Verde"
+  },
+  {
+    "name": "Preston England Temple",
+    "lat": "",
+    "lng": "",
+    "year": 1998,
+    "country": "England"
+  },
+  {
+    "name": "Price Utah Temple",
+    "lat": "",
+    "lng": "",
+    "year": null,
+    "country": "United States"
+  },
+  {
+    "name": "Provo City Center Temple",
+    "lat": "",
+    "lng": "",
+    "year": 2016,
+    "country": "United States"
+  },
+  {
+    "name": "Provo Utah Rock Canyon Temple",
+    "lat": "",
+    "lng": "",
+    "year": null,
+    "country": "United States"
+  },
+  {
+    "name": "Puebla Mexico Temple",
+    "lat": "",
+    "lng": "",
+    "year": 2024,
+    "country": "Mexico"
+  },
+  {
+    "name": "Puerto Montt Chile Temple",
+    "lat": "",
+    "lng": "",
+    "year": null,
+    "country": "Chile"
+  },
+  {
+    "name": "Queen Creek Arizona Temple",
+    "lat": "",
+    "lng": "",
+    "year": null,
+    "country": "United States"
+  },
+  {
+    "name": "Querétaro Mexico Temple",
+    "lat": "",
+    "lng": "",
+    "year": null,
+    "country": "Mexico"
+  },
+  {
+    "name": "Quetzaltenango Guatemala Temple",
+    "lat": "",
+    "lng": "",
+    "year": 2011,
+    "country": "Guatemala"
+  },
+  {
+    "name": "Quito Ecuador Temple",
+    "lat": "",
+    "lng": "",
+    "year": 2022,
+    "country": "Ecuador"
+  },
+  {
+    "name": "Raleigh North Carolina Temple",
+    "lat": "",
+    "lng": "",
+    "year": 1999,
+    "country": "United States"
+  },
+  {
+    "name": "Rapid City South Dakota Temple",
+    "lat": "",
+    "lng": "",
+    "year": null,
+    "country": "United States"
+  },
+  {
+    "name": "Recife Brazil Temple",
+    "lat": "",
+    "lng": "",
+    "year": 2000,
+    "country": "Brazil"
+  },
+  {
+    "name": "Red Cliffs Utah Temple",
+    "lat": "",
+    "lng": "",
+    "year": 2024,
+    "country": "United States"
+  },
+  {
+    "name": "Redlands California Temple",
+    "lat": "",
+    "lng": "",
+    "year": 2003,
+    "country": "United States"
+  },
+  {
+    "name": "Regina Saskatchewan Temple",
+    "lat": "",
+    "lng": "",
+    "year": 1999,
+    "country": "Canada"
+  },
+  {
+    "name": "Reno Nevada Temple",
+    "lat": "",
+    "lng": "",
+    "year": 2000,
+    "country": "United States"
+  },
+  {
+    "name": "Retalhuleu Guatemala Temple",
+    "lat": "",
+    "lng": "",
+    "year": null,
+    "country": "Guatemala"
+  },
+  {
+    "name": "Rexburg Idaho Temple",
+    "lat": "",
+    "lng": "",
+    "year": 2008,
+    "country": "United States"
+  },
+  {
+    "name": "Reynosa Mexico Temple",
+    "lat": "",
+    "lng": "",
+    "year": null,
+    "country": "Mexico"
+  },
+  {
+    "name": "Ribeirão Preto Brazil Temple",
+    "lat": "",
+    "lng": "",
+    "year": null,
+    "country": "Brazil"
+  },
+  {
+    "name": "Richmond Virginia Temple",
+    "lat": "",
+    "lng": "",
+    "year": 2023,
+    "country": "United States"
+  },
+  {
+    "name": "Rio de Janeiro Brazil Temple",
+    "lat": "",
+    "lng": "",
+    "year": 2022,
+    "country": "Brazil"
+  },
+  {
+    "name": "Rivera Uruguay Temple",
+    "lat": "",
+    "lng": "",
+    "year": null,
+    "country": "Uruguay"
+  },
+  {
+    "name": "Roanoke Virginia Temple",
+    "lat": "",
+    "lng": "",
+    "year": null,
+    "country": "United States"
+  },
+  {
+    "name": "Rome Italy Temple",
+    "lat": "",
+    "lng": "",
+    "year": 2019,
+    "country": "Italy"
+  },
+  {
+    "name": "Rosario Argentina Temple",
+    "lat": "",
+    "lng": "",
+    "year": null,
+    "country": "Argentina"
+  },
+  {
+    "name": "Russia Temple",
+    "lat": "",
+    "lng": "",
+    "year": null,
+    "country": "Russia"
+  },
+  {
+    "name": "Sacramento California Temple",
+    "lat": "",
+    "lng": "",
+    "year": 2006,
+    "country": "United States"
+  },
+  {
+    "name": "Salt Lake Temple",
+    "lat": "",
+    "lng": "",
+    "year": null,
+    "country": "United States"
+  },
+  {
+    "name": "Salta Argentina Temple",
+    "lat": "",
+    "lng": "",
+    "year": 2024,
+    "country": "Argentina"
+  },
+  {
+    "name": "Salvador Brazil Temple",
+    "lat": "",
+    "lng": "",
+    "year": 2024,
+    "country": "Brazil"
+  },
+  {
+    "name": "San Antonio Texas Temple",
+    "lat": "",
+    "lng": "",
+    "year": 2005,
+    "country": "United States"
+  },
+  {
+    "name": "San Diego California Temple",
+    "lat": "",
+    "lng": "",
+    "year": null,
+    "country": "United States"
+  },
+  {
+    "name": "San Jose California Temple",
+    "lat": "",
+    "lng": "",
+    "year": null,
+    "country": "United States"
+  },
+  {
+    "name": "San José Costa Rica Temple",
+    "lat": "",
+    "lng": "",
+    "year": 2000,
+    "country": "Costa Rica"
+  },
+  {
+    "name": "San Jose del Monte Philippines Temple",
+    "lat": "",
+    "lng": "",
+    "year": null,
+    "country": "Philippines"
+  },
+  {
+    "name": "San Juan Puerto Rico Temple",
+    "lat": "",
+    "lng": "",
+    "year": 2023,
+    "country": "Puerto Rico"
+  },
+  {
+    "name": "San Luis Potosí Mexico Temple",
+    "lat": "",
+    "lng": "",
+    "year": null,
+    "country": "Mexico"
+  },
+  {
+    "name": "San Pedro Sula Honduras Temple",
+    "lat": "",
+    "lng": "",
+    "year": 2024,
+    "country": "Honduras"
+  },
+  {
+    "name": "San Salvador El Salvador Temple",
+    "lat": "",
+    "lng": "",
+    "year": 2011,
+    "country": "El Salvador"
+  },
+  {
+    "name": "Santa Ana El Salvador Temple",
+    "lat": "",
+    "lng": "",
+    "year": null,
+    "country": "El Salvador"
+  },
+  {
+    "name": "Santa Cruz Bolivia Temple",
+    "lat": "",
+    "lng": "",
+    "year": null,
+    "country": "Bolivia"
+  },
+  {
+    "name": "Santiago Chile Temple",
+    "lat": "",
+    "lng": "",
+    "year": 1983,
+    "country": "Chile"
+  },
+  {
+    "name": "Santiago Dominican Republic Temple",
+    "lat": "",
+    "lng": "",
+    "year": null,
+    "country": "Dominican Republic"
+  },
+  {
+    "name": "Santiago Philippines Temple",
+    "lat": "",
+    "lng": "",
+    "year": null,
+    "country": "Philippines"
+  },
+  {
+    "name": "Santiago West Chile Temple",
+    "lat": "",
+    "lng": "",
+    "year": null,
+    "country": "Chile"
+  },
+  {
+    "name": "Santo Domingo Dominican Republic Temple",
+    "lat": "",
+    "lng": "",
+    "year": 2000,
+    "country": "Dominican Republic"
+  },
+  {
+    "name": "Santos Brazil Temple",
+    "lat": "",
+    "lng": "",
+    "year": null,
+    "country": "Brazil"
+  },
+  {
+    "name": "São Paulo Brazil Temple",
+    "lat": "",
+    "lng": "",
+    "year": 1978,
+    "country": "Brazil"
+  },
+  {
+    "name": "São Paulo East Brazil Temple",
+    "lat": "",
+    "lng": "",
+    "year": null,
+    "country": "Brazil"
+  },
+  {
+    "name": "Sapporo Japan Temple",
+    "lat": "",
+    "lng": "",
+    "year": 2016,
+    "country": "Japan"
+  },
+  {
+    "name": "Saratoga Springs Utah Temple",
+    "lat": "",
+    "lng": "",
+    "year": 2023,
+    "country": "United States"
+  },
+  {
+    "name": "Savai'i Samoa Temple",
+    "lat": "",
+    "lng": "",
+    "year": null,
+    "country": "Samoa"
+  },
+  {
+    "name": "Seattle Washington Temple",
+    "lat": "",
+    "lng": "",
+    "year": 1980,
+    "country": "United States"
+  },
+  {
+    "name": "Seoul Korea Temple",
+    "lat": "",
+    "lng": "",
+    "year": 1985,
+    "country": "South Korea"
+  },
+  {
+    "name": "Shanghai People's Republic of China Temple",
+    "lat": "",
+    "lng": "",
+    "year": null,
+    "country": "China"
+  },
+  {
+    "name": "Singapore Temple",
+    "lat": "",
+    "lng": "",
+    "year": null,
+    "country": "Singapore"
+  },
+  {
+    "name": "Smithfield Utah Temple",
+    "lat": "",
+    "lng": "",
+    "year": null,
+    "country": "United States"
+  },
+  {
+    "name": "Snowflake Arizona Temple",
+    "lat": "",
+    "lng": "",
+    "year": 2002,
+    "country": "United States"
+  },
+  {
+    "name": "Spanish Fork Utah Temple",
+    "lat": "",
+    "lng": "",
+    "year": null,
+    "country": "United States"
+  },
+  {
+    "name": "Spokane Washington Temple",
+    "lat": "",
+    "lng": "",
+    "year": 1999,
+    "country": "United States"
+  },
+  {
+    "name": "Springfield Missouri Temple",
+    "lat": "",
+    "lng": "",
+    "year": null,
+    "country": "United States"
+  },
+  {
+    "name": "St. George Utah Temple",
+    "lat": "",
+    "lng": "",
+    "year": 1877,
+    "country": "United States"
+  },
+  {
+    "name": "St. Louis Missouri Temple",
+    "lat": "",
+    "lng": "",
+    "year": 1997,
+    "country": "United States"
+  },
+  {
+    "name": "St. Paul Minnesota Temple",
+    "lat": "",
+    "lng": "",
+    "year": 2000,
+    "country": "United States"
+  },
+  {
+    "name": "Star Valley Wyoming Temple",
+    "lat": "",
+    "lng": "",
+    "year": 2016,
+    "country": "United States"
+  },
+  {
+    "name": "Stockholm Sweden Temple",
+    "lat": "",
+    "lng": "",
+    "year": null,
+    "country": "Sweden"
+  },
+  {
+    "name": "Summit New Jersey Temple",
+    "lat": "",
+    "lng": "",
+    "year": null,
+    "country": "United States"
+  },
+  {
+    "name": "Suva Fiji Temple",
+    "lat": "",
+    "lng": "",
+    "year": 2000,
+    "country": "Fiji"
+  },
+  {
+    "name": "Sydney Australia Temple",
+    "lat": "",
+    "lng": "",
+    "year": 1984,
+    "country": "Australia"
+  },
+  {
+    "name": "Syracuse Utah Temple",
+    "lat": "",
+    "lng": "",
+    "year": 2025,
+    "country": "United States"
+  },
+  {
+    "name": "Tacloban City Philippines Temple",
+    "lat": "",
+    "lng": "",
+    "year": null,
+    "country": "Philippines"
+  },
+  {
+    "name": "Tacoma Washington Temple",
+    "lat": "",
+    "lng": "",
+    "year": null,
+    "country": "United States"
+  },
+  {
+    "name": "Taipei Taiwan Temple",
+    "lat": "",
+    "lng": "",
+    "year": 1984,
+    "country": "Taiwan"
+  },
+  {
+    "name": "Tallahassee Florida Temple",
+    "lat": "",
+    "lng": "",
+    "year": 2024,
+    "country": "United States"
+  },
+  {
+    "name": "Tampa Florida Temple",
+    "lat": "",
+    "lng": "",
+    "year": null,
+    "country": "United States"
+  },
+  {
+    "name": "Tampico Mexico Temple",
+    "lat": "",
+    "lng": "",
+    "year": 2000,
+    "country": "Mexico"
+  },
+  {
+    "name": "Tarawa Kiribati Temple",
+    "lat": "",
+    "lng": "",
+    "year": null,
+    "country": "Kiribati"
+  },
+  {
+    "name": "Taylorsville Utah Temple",
+    "lat": "",
+    "lng": "",
+    "year": 2024,
+    "country": "United States"
+  },
+  {
+    "name": "Tegucigalpa Honduras Temple",
+    "lat": "",
+    "lng": "",
+    "year": 2013,
+    "country": "Honduras"
+  },
+  {
+    "name": "Teresina Brazil Temple",
+    "lat": "",
+    "lng": "",
+    "year": null,
+    "country": "Brazil"
+  },
+  {
+    "name": "Teton River Idaho Temple",
+    "lat": "",
+    "lng": "",
+    "year": null,
+    "country": "United States"
+  },
+  {
+    "name": "The Gila Valley Arizona Temple",
+    "lat": "",
+    "lng": "",
+    "year": 2010,
+    "country": "United States"
+  },
+  {
+    "name": "The Hague Netherlands Temple",
+    "lat": "",
+    "lng": "",
+    "year": 2002,
+    "country": "Netherlands"
+  },
+  {
+    "name": "Tijuana Mexico Temple",
+    "lat": "",
+    "lng": "",
+    "year": 2015,
+    "country": "Mexico"
+  },
+  {
+    "name": "Tokyo Japan Temple",
+    "lat": "",
+    "lng": "",
+    "year": 1980,
+    "country": "Japan"
+  },
+  {
+    "name": "Toluca Mexico Temple",
+    "lat": "",
+    "lng": "",
+    "year": null,
+    "country": "Mexico"
+  },
+  {
+    "name": "Toronto Ontario Temple",
+    "lat": "",
+    "lng": "",
+    "year": 1990,
+    "country": "Canada"
+  },
+  {
+    "name": "Torreón Mexico Temple",
+    "lat": "",
+    "lng": "",
+    "year": null,
+    "country": "Mexico"
+  },
+  {
+    "name": "Trujillo Peru Temple",
+    "lat": "",
+    "lng": "",
+    "year": 2015,
+    "country": "Peru"
+  },
+  {
+    "name": "Tucson Arizona Temple",
+    "lat": "",
+    "lng": "",
+    "year": 2017,
+    "country": "United States"
+  },
+  {
+    "name": "Tuguegarao City Philippines Temple",
+    "lat": "",
+    "lng": "",
+    "year": null,
+    "country": "Philippines"
+  },
+  {
+    "name": "Tula Mexico Temple",
+    "lat": "",
+    "lng": "",
+    "year": null,
+    "country": "Mexico"
+  },
+  {
+    "name": "Tulsa Oklahoma Temple",
+    "lat": "",
+    "lng": "",
+    "year": null,
+    "country": "United States"
+  },
+  {
+    "name": "Tuxtla Gutiérrez Mexico Temple",
+    "lat": "",
+    "lng": "",
+    "year": 2000,
+    "country": "Mexico"
+  },
+  {
+    "name": "Twin Falls Idaho Temple",
+    "lat": "",
+    "lng": "",
+    "year": 2008,
+    "country": "United States"
+  },
+  {
+    "name": "Ulaanbaatar Mongolia Temple",
+    "lat": "",
+    "lng": "",
+    "year": null,
+    "country": "Mongolia"
+  },
+  {
+    "name": "Urdaneta Philippines Temple",
+    "lat": "",
+    "lng": "",
+    "year": 2024,
+    "country": "Philippines"
+  },
+  {
+    "name": "Uturoa French Polynesia Temple",
+    "lat": "",
+    "lng": "",
+    "year": null,
+    "country": "French Polynesia"
+  },
+  {
+    "name": "Uyo Nigeria Temple",
+    "lat": "",
+    "lng": "",
+    "year": null,
+    "country": "Nigeria"
+  },
+  {
+    "name": "Vancouver British Columbia Temple",
+    "lat": "",
+    "lng": "",
+    "year": 2010,
+    "country": "Canada"
+  },
+  {
+    "name": "Vancouver Washington Temple",
+    "lat": "",
+    "lng": "",
+    "year": null,
+    "country": "United States"
+  },
+  {
+    "name": "Veracruz Mexico Temple",
+    "lat": "",
+    "lng": "",
+    "year": 2000,
+    "country": "Mexico"
+  },
+  {
+    "name": "Vernal Utah Temple",
+    "lat": "",
+    "lng": "",
+    "year": 1997,
+    "country": "United States"
+  },
+  {
+    "name": "Victoria British Columbia Temple",
+    "lat": "",
+    "lng": "",
+    "year": null,
+    "country": "Canada"
+  },
+  {
+    "name": "Vienna Austria Temple",
+    "lat": "",
+    "lng": "",
+    "year": null,
+    "country": "Austria"
+  },
+  {
+    "name": "Villahermosa Mexico Temple",
+    "lat": "",
+    "lng": "",
+    "year": 2000,
+    "country": "Mexico"
+  },
+  {
+    "name": "Viña del Mar Chile Temple",
+    "lat": "",
+    "lng": "",
+    "year": null,
+    "country": "Chile"
+  },
+  {
+    "name": "Vitória Brazil Temple",
+    "lat": "",
+    "lng": "",
+    "year": null,
+    "country": "Brazil"
+  },
+  {
+    "name": "Washington D.C. Temple",
+    "lat": "",
+    "lng": "",
+    "year": 1974,
+    "country": "United States"
+  },
+  {
+    "name": "Wellington New Zealand Temple",
+    "lat": "",
+    "lng": "",
+    "year": null,
+    "country": "New Zealand"
+  },
+  {
+    "name": "West Jordan Utah Temple",
+    "lat": "",
+    "lng": "",
+    "year": null,
+    "country": "United States"
+  },
+  {
+    "name": "Wichita Kansas Temple",
+    "lat": "",
+    "lng": "",
+    "year": null,
+    "country": "United States"
+  },
+  {
+    "name": "Willamette Valley Oregon Temple",
+    "lat": "",
+    "lng": "",
+    "year": null,
+    "country": "United States"
+  },
+  {
+    "name": "Winchester Virginia Temple",
+    "lat": "",
+    "lng": "",
+    "year": null,
+    "country": "United States"
+  },
+  {
+    "name": "Winnipeg Manitoba Temple",
+    "lat": "",
+    "lng": "",
+    "year": 2021,
+    "country": "Canada"
+  },
+  {
+    "name": "Winter Quarters Nebraska Temple",
+    "lat": "",
+    "lng": "",
+    "year": 2001,
+    "country": "United States"
+  },
+  {
+    "name": "Yigo Guam Temple",
+    "lat": "",
+    "lng": "",
+    "year": 2022,
+    "country": "Guam"
+  },
+  {
+    "name": "Yorba Linda California Temple",
+    "lat": "",
+    "lng": "",
+    "year": null,
+    "country": "United States"
+  },
+  {
+    "name": "Yuma Arizona Temple",
+    "lat": "",
+    "lng": "",
+    "year": null,
+    "country": "United States"
+  }
+]

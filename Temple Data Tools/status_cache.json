@@ -1,0 +1,2296 @@
+{
+  "generated_at": "2025-11-14T16:31:35.995519+00:00",
+  "source": "https://churchofjesuschristtemples.org/temples/chronology/",
+  "temples": {
+    "St. George Utah Temple": {
+      "status": "Dedicated",
+      "detail": "6–8 April 1877",
+      "source_section": "Dedicated",
+      "noted_by": "Daniel H. Wells"
+    },
+    "Logan Utah Temple": {
+      "status": "Dedicated",
+      "detail": "17–19 May 1884",
+      "source_section": "Dedicated",
+      "noted_by": "John Taylor"
+    },
+    "Manti Utah Temple": {
+      "status": "Dedicated",
+      "detail": "17 May 1888",
+      "source_section": "Dedicated",
+      "noted_by": "Wilford Woodruff"
+    },
+    "Salt Lake Temple": {
+      "status": "Dedicated",
+      "detail": "6–24 April 1893",
+      "source_section": "Dedicated",
+      "noted_by": "Wilford Woodruff"
+    },
+    "Laie Hawaii Temple": {
+      "status": "Dedicated",
+      "detail": "27–30 November 1919",
+      "source_section": "Dedicated",
+      "noted_by": "Heber J. Grant"
+    },
+    "Cardston Alberta Temple": {
+      "status": "Dedicated",
+      "detail": "26–29 August 1923",
+      "source_section": "Dedicated",
+      "noted_by": "Heber J. Grant"
+    },
+    "Mesa Arizona Temple": {
+      "status": "Dedicated",
+      "detail": "23–26 October 1927",
+      "source_section": "Dedicated",
+      "noted_by": "Heber J. Grant"
+    },
+    "Idaho Falls Idaho Temple": {
+      "status": "Dedicated",
+      "detail": "23–25 September 1945",
+      "source_section": "Dedicated",
+      "noted_by": "George Albert Smith"
+    },
+    "Bern Switzerland Temple": {
+      "status": "Dedicated",
+      "detail": "11–15 September 1955",
+      "source_section": "Dedicated",
+      "noted_by": "David O. McKay"
+    },
+    "Los Angeles California Temple": {
+      "status": "Dedicated",
+      "detail": "11–14 March 1956",
+      "source_section": "Dedicated",
+      "noted_by": "David O. McKay"
+    },
+    "Hamilton New Zealand Temple": {
+      "status": "Dedicated",
+      "detail": "20–22 April 1958",
+      "source_section": "Dedicated",
+      "noted_by": "David O. McKay"
+    },
+    "London England Temple": {
+      "status": "Dedicated",
+      "detail": "7–9 September 1958",
+      "source_section": "Dedicated",
+      "noted_by": "David O. McKay"
+    },
+    "Oakland California Temple": {
+      "status": "Dedicated",
+      "detail": "17–19 November 1964",
+      "source_section": "Dedicated",
+      "noted_by": "David O. McKay"
+    },
+    "Ogden Utah Temple": {
+      "status": "Dedicated",
+      "detail": "18–20 January 1972",
+      "source_section": "Dedicated",
+      "noted_by": "Joseph Fielding Smith"
+    },
+    "Provo Utah Rock Canyon Temple": {
+      "status": "Dedicated",
+      "detail": "9 February 1972",
+      "source_section": "Dedicated",
+      "noted_by": "Joseph Fielding Smith"
+    },
+    "Washington D.C. Temple": {
+      "status": "Dedicated",
+      "detail": "19–22 November 1974",
+      "source_section": "Dedicated",
+      "noted_by": "Spencer W. Kimball"
+    },
+    "São Paulo Brazil Temple": {
+      "status": "Dedicated",
+      "detail": "30 October–2 November 1978",
+      "source_section": "Dedicated",
+      "noted_by": "Spencer W. Kimball"
+    },
+    "Tokyo Japan Temple": {
+      "status": "Dedicated",
+      "detail": "27–29 October 1980",
+      "source_section": "Dedicated",
+      "noted_by": "Spencer W. Kimball"
+    },
+    "Seattle Washington Temple": {
+      "status": "Dedicated",
+      "detail": "17–21 November 1980",
+      "source_section": "Dedicated",
+      "noted_by": "Spencer W. Kimball"
+    },
+    "Jordan River Utah Temple": {
+      "status": "Dedicated",
+      "detail": "16–20 November 1981",
+      "source_section": "Dedicated",
+      "noted_by": "Marion G. Romney"
+    },
+    "Atlanta Georgia Temple": {
+      "status": "Dedicated",
+      "detail": "1–4 June 1983",
+      "source_section": "Dedicated",
+      "noted_by": "Gordon B. Hinckley"
+    },
+    "Apia Samoa Temple": {
+      "status": "Dedicated",
+      "detail": "5–7 August 1983",
+      "source_section": "Dedicated",
+      "noted_by": "Gordon B. Hinckley"
+    },
+    "Nuku'alofa Tonga Temple": {
+      "status": "Dedicated",
+      "detail": "9–11 August 1983",
+      "source_section": "Dedicated",
+      "noted_by": "Gordon B. Hinckley"
+    },
+    "Santiago Chile Temple": {
+      "status": "Dedicated",
+      "detail": "15–17 September 1983",
+      "source_section": "Dedicated",
+      "noted_by": "Gordon B. Hinckley"
+    },
+    "Papeete Tahiti Temple": {
+      "status": "Dedicated",
+      "detail": "27–29 October 1983",
+      "source_section": "Dedicated",
+      "noted_by": "Gordon B. Hinckley"
+    },
+    "Mexico City Mexico Temple": {
+      "status": "Dedicated",
+      "detail": "2–4 December 1983",
+      "source_section": "Dedicated",
+      "noted_by": "Gordon B. Hinckley"
+    },
+    "Boise Idaho Temple": {
+      "status": "Dedicated",
+      "detail": "25–30 May 1984",
+      "source_section": "Dedicated",
+      "noted_by": "Gordon B. Hinckley"
+    },
+    "Sydney Australia Temple": {
+      "status": "Dedicated",
+      "detail": "20–23 September 1984",
+      "source_section": "Dedicated",
+      "noted_by": "Gordon B. Hinckley"
+    },
+    "Manila Philippines Temple": {
+      "status": "Dedicated",
+      "detail": "25–27 September 1984",
+      "source_section": "Dedicated",
+      "noted_by": "Gordon B. Hinckley"
+    },
+    "Dallas Texas Temple": {
+      "status": "Dedicated",
+      "detail": "19–24 October 1984",
+      "source_section": "Dedicated",
+      "noted_by": "Gordon B. Hinckley"
+    },
+    "Taipei Taiwan Temple": {
+      "status": "Dedicated",
+      "detail": "17–18 November 1984",
+      "source_section": "Dedicated",
+      "noted_by": "Gordon B. Hinckley"
+    },
+    "Guatemala City Guatemala Temple": {
+      "status": "Dedicated",
+      "detail": "14–16 December 1984",
+      "source_section": "Dedicated",
+      "noted_by": "Gordon B. Hinckley"
+    },
+    "Freiberg Germany Temple": {
+      "status": "Dedicated",
+      "detail": "29–30 June 1985",
+      "source_section": "Dedicated",
+      "noted_by": "Gordon B. Hinckley"
+    },
+    "Stockholm Sweden Temple": {
+      "status": "Dedicated",
+      "detail": "2–4 July 1985",
+      "source_section": "Dedicated",
+      "noted_by": "Gordon B. Hinckley"
+    },
+    "Chicago Illinois Temple": {
+      "status": "Dedicated",
+      "detail": "9–13 August 1985",
+      "source_section": "Dedicated",
+      "noted_by": "Gordon B. Hinckley"
+    },
+    "Johannesburg South Africa Temple": {
+      "status": "Dedicated",
+      "detail": "24–25 August 1985",
+      "source_section": "Dedicated",
+      "noted_by": "Gordon B. Hinckley"
+    },
+    "Seoul Korea Temple": {
+      "status": "Dedicated",
+      "detail": "14–15 December 1985",
+      "source_section": "Dedicated",
+      "noted_by": "Gordon B. Hinckley"
+    },
+    "Lima Peru Temple": {
+      "status": "Dedicated",
+      "detail": "10–12 January 1986",
+      "source_section": "Dedicated",
+      "noted_by": "Gordon B. Hinckley"
+    },
+    "Buenos Aires Argentina Temple": {
+      "status": "Dedicated",
+      "detail": "17–19 January 1986",
+      "source_section": "Dedicated",
+      "noted_by": "Thomas S. Monson"
+    },
+    "Denver Colorado Temple": {
+      "status": "Dedicated",
+      "detail": "24–28 October 1986",
+      "source_section": "Dedicated",
+      "noted_by": "Ezra Taft Benson"
+    },
+    "Frankfurt Germany Temple": {
+      "status": "Dedicated",
+      "detail": "28–30 August 1987",
+      "source_section": "Dedicated",
+      "noted_by": "Ezra Taft Benson"
+    },
+    "Portland Oregon Temple": {
+      "status": "Dedicated",
+      "detail": "19–21 August 1989",
+      "source_section": "Dedicated",
+      "noted_by": "Gordon B. Hinckley"
+    },
+    "Las Vegas Nevada Temple": {
+      "status": "Dedicated",
+      "detail": "16–18 December 1989",
+      "source_section": "Dedicated",
+      "noted_by": "Gordon B. Hinckley"
+    },
+    "Toronto Ontario Temple": {
+      "status": "Dedicated",
+      "detail": "25–27 August 1990",
+      "source_section": "Dedicated",
+      "noted_by": "Gordon B. Hinckley"
+    },
+    "San Diego California Temple": {
+      "status": "Dedicated",
+      "detail": "25–30 April 1993",
+      "source_section": "Dedicated",
+      "noted_by": "Gordon B. Hinckley"
+    },
+    "Orlando Florida Temple": {
+      "status": "Dedicated",
+      "detail": "9–11 October 1994",
+      "source_section": "Dedicated",
+      "noted_by": "Howard W. Hunter"
+    },
+    "Bountiful Utah Temple": {
+      "status": "Dedicated",
+      "detail": "8–14 January 1995",
+      "source_section": "Dedicated",
+      "noted_by": "Howard W. Hunter"
+    },
+    "Hong Kong China Temple": {
+      "status": "Dedicated",
+      "detail": "26–27 May 1996",
+      "source_section": "Dedicated",
+      "noted_by": "Gordon B. Hinckley"
+    },
+    "Mount Timpanogos Utah Temple": {
+      "status": "Dedicated",
+      "detail": "13–19 October 1996",
+      "source_section": "Dedicated",
+      "noted_by": "Gordon B. Hinckley"
+    },
+    "St. Louis Missouri Temple": {
+      "status": "Dedicated",
+      "detail": "1–5 June 1997",
+      "source_section": "Dedicated",
+      "noted_by": "Gordon B. Hinckley"
+    },
+    "Vernal Utah Temple": {
+      "status": "Dedicated",
+      "detail": "2–4 November 1997",
+      "source_section": "Dedicated",
+      "noted_by": "Gordon B. Hinckley"
+    },
+    "Preston England Temple": {
+      "status": "Dedicated",
+      "detail": "7–10 June 1998",
+      "source_section": "Dedicated",
+      "noted_by": "Gordon B. Hinckley"
+    },
+    "Monticello Utah Temple": {
+      "status": "Dedicated",
+      "detail": "26–27 July 1998",
+      "source_section": "Dedicated",
+      "noted_by": "Gordon B. Hinckley"
+    },
+    "Anchorage Alaska Temple": {
+      "status": "Dedicated",
+      "detail": "9–10 January 1999",
+      "source_section": "Dedicated",
+      "noted_by": "Gordon B. Hinckley"
+    },
+    "Colonia Juárez Chihuahua Mexico Temple": {
+      "status": "Dedicated",
+      "detail": "6–7 March 1999",
+      "source_section": "Dedicated",
+      "noted_by": "Gordon B. Hinckley"
+    },
+    "Madrid Spain Temple": {
+      "status": "Dedicated",
+      "detail": "19–21 March 1999",
+      "source_section": "Dedicated",
+      "noted_by": "Gordon B. Hinckley"
+    },
+    "Bogotá Colombia Temple": {
+      "status": "Dedicated",
+      "detail": "24–26 April 1999",
+      "source_section": "Dedicated",
+      "noted_by": "Gordon B. Hinckley"
+    },
+    "Guayaquil Ecuador Temple": {
+      "status": "Dedicated",
+      "detail": "1–2 August 1999",
+      "source_section": "Dedicated",
+      "noted_by": "Gordon B. Hinckley"
+    },
+    "Spokane Washington Temple": {
+      "status": "Dedicated",
+      "detail": "21–23 August 1999",
+      "source_section": "Dedicated",
+      "noted_by": "Gordon B. Hinckley"
+    },
+    "Columbus Ohio Temple": {
+      "status": "Dedicated",
+      "detail": "4–5 September 1999",
+      "source_section": "Dedicated",
+      "noted_by": "Gordon B. Hinckley"
+    },
+    "Bismarck North Dakota Temple": {
+      "status": "Dedicated",
+      "detail": "19 September 1999",
+      "source_section": "Dedicated",
+      "noted_by": "Gordon B. Hinckley"
+    },
+    "Columbia South Carolina Temple": {
+      "status": "Dedicated",
+      "detail": "16–17 October 1999",
+      "source_section": "Dedicated",
+      "noted_by": "Gordon B. Hinckley"
+    },
+    "Detroit Michigan Temple": {
+      "status": "Dedicated",
+      "detail": "23–24 October 1999",
+      "source_section": "Dedicated",
+      "noted_by": "Gordon B. Hinckley"
+    },
+    "Halifax Nova Scotia Temple": {
+      "status": "Dedicated",
+      "detail": "14 November 1999",
+      "source_section": "Dedicated",
+      "noted_by": "Gordon B. Hinckley"
+    },
+    "Regina Saskatchewan Temple": {
+      "status": "Dedicated",
+      "detail": "14 November 1999",
+      "source_section": "Dedicated",
+      "noted_by": "Boyd K. Packer"
+    },
+    "Billings Montana Temple": {
+      "status": "Dedicated",
+      "detail": "20–21 November 1999",
+      "source_section": "Dedicated",
+      "noted_by": "Gordon B. Hinckley"
+    },
+    "Edmonton Alberta Temple": {
+      "status": "Dedicated",
+      "detail": "11–12 December 1999",
+      "source_section": "Dedicated",
+      "noted_by": "Gordon B. Hinckley"
+    },
+    "Raleigh North Carolina Temple": {
+      "status": "Dedicated",
+      "detail": "18–19 December 1999",
+      "source_section": "Dedicated",
+      "noted_by": "Gordon B. Hinckley"
+    },
+    "St. Paul Minnesota Temple": {
+      "status": "Dedicated",
+      "detail": "9 January 2000",
+      "source_section": "Dedicated",
+      "noted_by": "Gordon B. Hinckley"
+    },
+    "Kona Hawaii Temple": {
+      "status": "Dedicated",
+      "detail": "23–24 January 2000",
+      "source_section": "Dedicated",
+      "noted_by": "Gordon B. Hinckley"
+    },
+    "Ciudad Juárez Mexico Temple": {
+      "status": "Dedicated",
+      "detail": "26–27 February 2000",
+      "source_section": "Dedicated",
+      "noted_by": "Gordon B. Hinckley"
+    },
+    "Hermosillo Sonora Mexico Temple": {
+      "status": "Dedicated",
+      "detail": "27 February 2000",
+      "source_section": "Dedicated",
+      "noted_by": "Gordon B. Hinckley"
+    },
+    "Albuquerque New Mexico Temple": {
+      "status": "Dedicated",
+      "detail": "5 March 2000",
+      "source_section": "Dedicated",
+      "noted_by": "Gordon B. Hinckley"
+    },
+    "Oaxaca Mexico Temple": {
+      "status": "Dedicated",
+      "detail": "11 March 2000",
+      "source_section": "Dedicated",
+      "noted_by": "James E. Faust"
+    },
+    "Tuxtla Gutiérrez Mexico Temple": {
+      "status": "Dedicated",
+      "detail": "12 March 2000",
+      "source_section": "Dedicated",
+      "noted_by": "James E. Faust"
+    },
+    "Louisville Kentucky Temple": {
+      "status": "Dedicated",
+      "detail": "19 March 2000",
+      "source_section": "Dedicated",
+      "noted_by": "Thomas S. Monson"
+    },
+    "Palmyra New York Temple": {
+      "status": "Dedicated",
+      "detail": "6 April 2000",
+      "source_section": "Dedicated",
+      "noted_by": "Gordon B. Hinckley"
+    },
+    "Fresno California Temple": {
+      "status": "Dedicated",
+      "detail": "9 April 2000",
+      "source_section": "Dedicated",
+      "noted_by": "Gordon B. Hinckley"
+    },
+    "Medford Oregon Temple": {
+      "status": "Dedicated",
+      "detail": "16 April 2000",
+      "source_section": "Dedicated",
+      "noted_by": "James E. Faust"
+    },
+    "Memphis Tennessee Temple": {
+      "status": "Dedicated",
+      "detail": "23 April 2000",
+      "source_section": "Dedicated",
+      "noted_by": "James E. Faust"
+    },
+    "Reno Nevada Temple": {
+      "status": "Dedicated",
+      "detail": "23 April 2000",
+      "source_section": "Dedicated",
+      "noted_by": "Thomas S. Monson"
+    },
+    "Cochabamba Bolivia Temple": {
+      "status": "Dedicated",
+      "detail": "30 April 2000",
+      "source_section": "Dedicated",
+      "noted_by": "Gordon B. Hinckley"
+    },
+    "Tampico Mexico Temple": {
+      "status": "Dedicated",
+      "detail": "20 May 2000",
+      "source_section": "Dedicated",
+      "noted_by": "Thomas S. Monson"
+    },
+    "Nashville Tennessee Temple": {
+      "status": "Dedicated",
+      "detail": "21 May 2000",
+      "source_section": "Dedicated",
+      "noted_by": "James E. Faust"
+    },
+    "Villahermosa Mexico Temple": {
+      "status": "Dedicated",
+      "detail": "21 May 2000",
+      "source_section": "Dedicated",
+      "noted_by": "Thomas S. Monson"
+    },
+    "Montreal Quebec Temple": {
+      "status": "Dedicated",
+      "detail": "4 June 2000",
+      "source_section": "Dedicated",
+      "noted_by": "Gordon B. Hinckley"
+    },
+    "San José Costa Rica Temple": {
+      "status": "Dedicated",
+      "detail": "4 June 2000",
+      "source_section": "Dedicated",
+      "noted_by": "James E. Faust"
+    },
+    "Fukuoka Japan Temple": {
+      "status": "Dedicated",
+      "detail": "11 June 2000",
+      "source_section": "Dedicated",
+      "noted_by": "Gordon B. Hinckley"
+    },
+    "Adelaide Australia Temple": {
+      "status": "Dedicated",
+      "detail": "15 June 2000",
+      "source_section": "Dedicated",
+      "noted_by": "Gordon B. Hinckley"
+    },
+    "Melbourne Australia Temple": {
+      "status": "Dedicated",
+      "detail": "16 June 2000",
+      "source_section": "Dedicated",
+      "noted_by": "Gordon B. Hinckley"
+    },
+    "Suva Fiji Temple": {
+      "status": "Dedicated",
+      "detail": "18 June 2000",
+      "source_section": "Dedicated",
+      "noted_by": "Gordon B. Hinckley"
+    },
+    "Mérida Mexico Temple": {
+      "status": "Dedicated",
+      "detail": "8 July 2000",
+      "source_section": "Dedicated",
+      "noted_by": "Thomas S. Monson"
+    },
+    "Veracruz Mexico Temple": {
+      "status": "Dedicated",
+      "detail": "9 July 2000",
+      "source_section": "Dedicated",
+      "noted_by": "Thomas S. Monson"
+    },
+    "Baton Rouge Louisiana Temple": {
+      "status": "Dedicated",
+      "detail": "16 July 2000",
+      "source_section": "Dedicated",
+      "noted_by": "Gordon B. Hinckley"
+    },
+    "Oklahoma City Oklahoma Temple": {
+      "status": "Dedicated",
+      "detail": "30 July 2000",
+      "source_section": "Dedicated",
+      "noted_by": "James E. Faust"
+    },
+    "Caracas Venezuela Temple": {
+      "status": "Dedicated",
+      "detail": "20 August 2000",
+      "source_section": "Dedicated",
+      "noted_by": "Gordon B. Hinckley"
+    },
+    "Houston Texas Temple": {
+      "status": "Dedicated",
+      "detail": "26–27 August 2000",
+      "source_section": "Dedicated",
+      "noted_by": "Gordon B. Hinckley"
+    },
+    "Birmingham Alabama Temple": {
+      "status": "Dedicated",
+      "detail": "3 September 2000",
+      "source_section": "Dedicated",
+      "noted_by": "Gordon B. Hinckley"
+    },
+    "Santo Domingo Dominican Republic Temple": {
+      "status": "Dedicated",
+      "detail": "17 September 2000",
+      "source_section": "Dedicated",
+      "noted_by": "Gordon B. Hinckley"
+    },
+    "Boston Massachusetts Temple": {
+      "status": "Dedicated",
+      "detail": "1 October 2000",
+      "source_section": "Dedicated",
+      "noted_by": "Gordon B. Hinckley"
+    },
+    "Recife Brazil Temple": {
+      "status": "Dedicated",
+      "detail": "15 December 2000",
+      "source_section": "Dedicated",
+      "noted_by": "Gordon B. Hinckley"
+    },
+    "Porto Alegre Brazil Temple": {
+      "status": "Dedicated",
+      "detail": "17 December 2000",
+      "source_section": "Dedicated",
+      "noted_by": "Gordon B. Hinckley"
+    },
+    "Montevideo Uruguay Temple": {
+      "status": "Dedicated",
+      "detail": "18 March 2001",
+      "source_section": "Dedicated",
+      "noted_by": "Gordon B. Hinckley"
+    },
+    "Winter Quarters Nebraska Temple": {
+      "status": "Dedicated",
+      "detail": "22 April 2001",
+      "source_section": "Dedicated",
+      "noted_by": "Gordon B. Hinckley"
+    },
+    "Guadalajara Mexico Temple": {
+      "status": "Dedicated",
+      "detail": "29 April 2001",
+      "source_section": "Dedicated",
+      "noted_by": "Gordon B. Hinckley"
+    },
+    "Perth Australia Temple": {
+      "status": "Dedicated",
+      "detail": "20 May 2001",
+      "source_section": "Dedicated",
+      "noted_by": "Gordon B. Hinckley"
+    },
+    "Columbia River Washington Temple": {
+      "status": "Dedicated",
+      "detail": "18 November 2001",
+      "source_section": "Dedicated",
+      "noted_by": "Gordon B. Hinckley"
+    },
+    "Snowflake Arizona Temple": {
+      "status": "Dedicated",
+      "detail": "3 March 2002",
+      "source_section": "Dedicated",
+      "noted_by": "Gordon B. Hinckley"
+    },
+    "Lubbock Texas Temple": {
+      "status": "Dedicated",
+      "detail": "21 April 2002",
+      "source_section": "Dedicated",
+      "noted_by": "Gordon B. Hinckley"
+    },
+    "Monterrey Mexico Temple": {
+      "status": "Dedicated",
+      "detail": "28 April 2002",
+      "source_section": "Dedicated",
+      "noted_by": "Gordon B. Hinckley"
+    },
+    "Campinas Brazil Temple": {
+      "status": "Dedicated",
+      "detail": "17 May 2002",
+      "source_section": "Dedicated",
+      "noted_by": "Gordon B. Hinckley"
+    },
+    "Asunción Paraguay Temple": {
+      "status": "Dedicated",
+      "detail": "19 May 2002",
+      "source_section": "Dedicated",
+      "noted_by": "Gordon B. Hinckley"
+    },
+    "Nauvoo Illinois Temple": {
+      "status": "Dedicated",
+      "detail": "27–30 June 2002",
+      "source_section": "Dedicated",
+      "noted_by": "Gordon B. Hinckley"
+    },
+    "The Hague Netherlands Temple": {
+      "status": "Dedicated",
+      "detail": "8 September 2002",
+      "source_section": "Dedicated",
+      "noted_by": "Gordon B. Hinckley"
+    },
+    "Brisbane Australia Temple": {
+      "status": "Dedicated",
+      "detail": "15 June 2003",
+      "source_section": "Dedicated",
+      "noted_by": "Gordon B. Hinckley"
+    },
+    "Redlands California Temple": {
+      "status": "Dedicated",
+      "detail": "14 September 2003",
+      "source_section": "Dedicated",
+      "noted_by": "Gordon B. Hinckley"
+    },
+    "Accra Ghana Temple": {
+      "status": "Dedicated",
+      "detail": "11 January 2004",
+      "source_section": "Dedicated",
+      "noted_by": "Gordon B. Hinckley"
+    },
+    "Copenhagen Denmark Temple": {
+      "status": "Dedicated",
+      "detail": "23 May 2004",
+      "source_section": "Dedicated",
+      "noted_by": "Gordon B. Hinckley"
+    },
+    "Manhattan New York Temple": {
+      "status": "Dedicated",
+      "detail": "13 June 2004",
+      "source_section": "Dedicated",
+      "noted_by": "Gordon B. Hinckley"
+    },
+    "San Antonio Texas Temple": {
+      "status": "Dedicated",
+      "detail": "22 May 2005",
+      "source_section": "Dedicated",
+      "noted_by": "Gordon B. Hinckley"
+    },
+    "Aba Nigeria Temple": {
+      "status": "Dedicated",
+      "detail": "7 August 2005",
+      "source_section": "Dedicated",
+      "noted_by": "Gordon B. Hinckley"
+    },
+    "Newport Beach California Temple": {
+      "status": "Dedicated",
+      "detail": "28 August 2005",
+      "source_section": "Dedicated",
+      "noted_by": "Gordon B. Hinckley"
+    },
+    "Sacramento California Temple": {
+      "status": "Dedicated",
+      "detail": "3 September 2006",
+      "source_section": "Dedicated",
+      "noted_by": "Gordon B. Hinckley"
+    },
+    "Helsinki Finland Temple": {
+      "status": "Dedicated",
+      "detail": "22 October 2006",
+      "source_section": "Dedicated",
+      "noted_by": "Gordon B. Hinckley"
+    },
+    "Rexburg Idaho Temple": {
+      "status": "Dedicated",
+      "detail": "10 February 2008",
+      "source_section": "Dedicated",
+      "noted_by": "Thomas S. Monson"
+    },
+    "Curitiba Brazil Temple": {
+      "status": "Dedicated",
+      "detail": "1 June 2008",
+      "source_section": "Dedicated",
+      "noted_by": "Thomas S. Monson"
+    },
+    "Panama City Panama Temple": {
+      "status": "Dedicated",
+      "detail": "10 August 2008",
+      "source_section": "Dedicated",
+      "noted_by": "Thomas S. Monson"
+    },
+    "Twin Falls Idaho Temple": {
+      "status": "Dedicated",
+      "detail": "24 August 2008",
+      "source_section": "Dedicated",
+      "noted_by": "Thomas S. Monson"
+    },
+    "Draper Utah Temple": {
+      "status": "Dedicated",
+      "detail": "20–22 March 2009",
+      "source_section": "Dedicated",
+      "noted_by": "Thomas S. Monson"
+    },
+    "Oquirrh Mountain Utah Temple": {
+      "status": "Dedicated",
+      "detail": "21–23 August 2009",
+      "source_section": "Dedicated",
+      "noted_by": "Thomas S. Monson"
+    },
+    "Vancouver British Columbia Temple": {
+      "status": "Dedicated",
+      "detail": "2 May 2010",
+      "source_section": "Dedicated",
+      "noted_by": "Thomas S. Monson"
+    },
+    "The Gila Valley Arizona Temple": {
+      "status": "Dedicated",
+      "detail": "23 May 2010",
+      "source_section": "Dedicated",
+      "noted_by": "Thomas S. Monson"
+    },
+    "Cebu City Philippines Temple": {
+      "status": "Dedicated",
+      "detail": "13 June 2010",
+      "source_section": "Dedicated",
+      "noted_by": "Thomas S. Monson"
+    },
+    "Kyiv Ukraine Temple": {
+      "status": "Dedicated",
+      "detail": "29 August 2010",
+      "source_section": "Dedicated",
+      "noted_by": "Thomas S. Monson"
+    },
+    "San Salvador El Salvador Temple": {
+      "status": "Dedicated",
+      "detail": "21 August 2011",
+      "source_section": "Dedicated",
+      "noted_by": "Henry B. Eyring"
+    },
+    "Quetzaltenango Guatemala Temple": {
+      "status": "Dedicated",
+      "detail": "11 December 2011",
+      "source_section": "Dedicated",
+      "noted_by": "Dieter F. Uchtdorf"
+    },
+    "Kansas City Missouri Temple": {
+      "status": "Dedicated",
+      "detail": "6 May 2012",
+      "source_section": "Dedicated",
+      "noted_by": "Thomas S. Monson"
+    },
+    "Manaus Brazil Temple": {
+      "status": "Dedicated",
+      "detail": "10 June 2012",
+      "source_section": "Dedicated",
+      "noted_by": "Dieter F. Uchtdorf"
+    },
+    "Brigham City Utah Temple": {
+      "status": "Dedicated",
+      "detail": "23 September 2012",
+      "source_section": "Dedicated",
+      "noted_by": "Boyd K. Packer"
+    },
+    "Calgary Alberta Temple": {
+      "status": "Dedicated",
+      "detail": "28 October 2012",
+      "source_section": "Dedicated",
+      "noted_by": "Thomas S. Monson"
+    },
+    "Tegucigalpa Honduras Temple": {
+      "status": "Dedicated",
+      "detail": "17 March 2013",
+      "source_section": "Dedicated",
+      "noted_by": "Dieter F. Uchtdorf"
+    },
+    "Gilbert Arizona Temple": {
+      "status": "Dedicated",
+      "detail": "2 March 2014",
+      "source_section": "Dedicated",
+      "noted_by": "Thomas S. Monson"
+    },
+    "Fort Lauderdale Florida Temple": {
+      "status": "Dedicated",
+      "detail": "4 May 2014",
+      "source_section": "Dedicated",
+      "noted_by": "Dieter F. Uchtdorf"
+    },
+    "Phoenix Arizona Temple": {
+      "status": "Dedicated",
+      "detail": "16 November 2014",
+      "source_section": "Dedicated",
+      "noted_by": "Thomas S. Monson"
+    },
+    "Córdoba Argentina Temple": {
+      "status": "Dedicated",
+      "detail": "17 May 2015",
+      "source_section": "Dedicated",
+      "noted_by": "Dieter F. Uchtdorf"
+    },
+    "Payson Utah Temple": {
+      "status": "Dedicated",
+      "detail": "7 June 2015",
+      "source_section": "Dedicated",
+      "noted_by": "Henry B. Eyring"
+    },
+    "Trujillo Peru Temple": {
+      "status": "Dedicated",
+      "detail": "21 June 2015",
+      "source_section": "Dedicated",
+      "noted_by": "Dieter F. Uchtdorf"
+    },
+    "Indianapolis Indiana Temple": {
+      "status": "Dedicated",
+      "detail": "23 August 2015",
+      "source_section": "Dedicated",
+      "noted_by": "Henry B. Eyring"
+    },
+    "Tijuana Mexico Temple": {
+      "status": "Dedicated",
+      "detail": "13 December 2015",
+      "source_section": "Dedicated",
+      "noted_by": "Dieter F. Uchtdorf"
+    },
+    "Provo City Center Temple": {
+      "status": "Dedicated",
+      "detail": "20 March 2016",
+      "source_section": "Dedicated",
+      "noted_by": "Dallin H. Oaks"
+    },
+    "Sapporo Japan Temple": {
+      "status": "Dedicated",
+      "detail": "21 August 2016",
+      "source_section": "Dedicated",
+      "noted_by": "Russell M. Nelson"
+    },
+    "Philadelphia Pennsylvania Temple": {
+      "status": "Dedicated",
+      "detail": "18 September 2016",
+      "source_section": "Dedicated",
+      "noted_by": "Henry B. Eyring"
+    },
+    "Fort Collins Colorado Temple": {
+      "status": "Dedicated",
+      "detail": "16 October 2016",
+      "source_section": "Dedicated",
+      "noted_by": "Dieter F. Uchtdorf"
+    },
+    "Star Valley Wyoming Temple": {
+      "status": "Dedicated",
+      "detail": "30 October 2016",
+      "source_section": "Dedicated",
+      "noted_by": "David A. Bednar"
+    },
+    "Hartford Connecticut Temple": {
+      "status": "Dedicated",
+      "detail": "20 November 2016",
+      "source_section": "Dedicated",
+      "noted_by": "Henry B. Eyring"
+    },
+    "Paris France Temple": {
+      "status": "Dedicated",
+      "detail": "21 May 2017",
+      "source_section": "Dedicated",
+      "noted_by": "Henry B. Eyring"
+    },
+    "Tucson Arizona Temple": {
+      "status": "Dedicated",
+      "detail": "13 August 2017",
+      "source_section": "Dedicated",
+      "noted_by": "Dieter F. Uchtdorf"
+    },
+    "Meridian Idaho Temple": {
+      "status": "Dedicated",
+      "detail": "19 November 2017",
+      "source_section": "Dedicated",
+      "noted_by": "Dieter F. Uchtdorf"
+    },
+    "Cedar City Utah Temple": {
+      "status": "Dedicated",
+      "detail": "10 December 2017",
+      "source_section": "Dedicated",
+      "noted_by": "Henry B. Eyring"
+    },
+    "Concepción Chile Temple": {
+      "status": "Dedicated",
+      "detail": "28 October 2018",
+      "source_section": "Dedicated",
+      "noted_by": "Russell M. Nelson"
+    },
+    "Barranquilla Colombia Temple": {
+      "status": "Dedicated",
+      "detail": "9 December 2018",
+      "source_section": "Dedicated",
+      "noted_by": "Dallin H. Oaks"
+    },
+    "Rome Italy Temple": {
+      "status": "Dedicated",
+      "detail": "10–12 March 2019",
+      "source_section": "Dedicated",
+      "noted_by": "Russell M. Nelson"
+    },
+    "Kinshasa Democratic Republic of the Congo Temple": {
+      "status": "Dedicated",
+      "detail": "14 April 2019",
+      "source_section": "Dedicated",
+      "noted_by": "Dale G. Renlund"
+    },
+    "Fortaleza Brazil Temple": {
+      "status": "Dedicated",
+      "detail": "2 June 2019",
+      "source_section": "Dedicated",
+      "noted_by": "Ulisses Soares"
+    },
+    "Port-au-Prince Haiti Temple": {
+      "status": "Dedicated",
+      "detail": "1 September 2019",
+      "source_section": "Dedicated",
+      "noted_by": "David A. Bednar"
+    },
+    "Lisbon Portugal Temple": {
+      "status": "Dedicated",
+      "detail": "15 September 2019",
+      "source_section": "Dedicated",
+      "noted_by": "Neil L. Andersen"
+    },
+    "Arequipa Peru Temple": {
+      "status": "Dedicated",
+      "detail": "15 December 2019",
+      "source_section": "Dedicated",
+      "noted_by": "Ulisses Soares"
+    },
+    "Durban South Africa Temple": {
+      "status": "Dedicated",
+      "detail": "16 February 2020",
+      "source_section": "Dedicated",
+      "noted_by": "Ronald A. Rasband"
+    },
+    "Winnipeg Manitoba Temple": {
+      "status": "Dedicated",
+      "detail": "31 October 2021",
+      "source_section": "Dedicated",
+      "noted_by": "Gerrit W. Gong"
+    },
+    "Pocatello Idaho Temple": {
+      "status": "Dedicated",
+      "detail": "7 November 2021",
+      "source_section": "Dedicated",
+      "noted_by": "M. Russell Ballard"
+    },
+    "Rio de Janeiro Brazil Temple": {
+      "status": "Dedicated",
+      "detail": "8 May 2022",
+      "source_section": "Dedicated",
+      "noted_by": "Gary E. Stevenson"
+    },
+    "Yigo Guam Temple": {
+      "status": "Dedicated",
+      "detail": "22 May 2022",
+      "source_section": "Dedicated",
+      "noted_by": "David A. Bednar"
+    },
+    "Praia Cape Verde Temple": {
+      "status": "Dedicated",
+      "detail": "19 June 2022",
+      "source_section": "Dedicated",
+      "noted_by": "Neil L. Andersen"
+    },
+    "Belém Brazil Temple": {
+      "status": "Dedicated",
+      "detail": "20 November 2022",
+      "source_section": "Dedicated",
+      "noted_by": "Dale G. Renlund"
+    },
+    "Quito Ecuador Temple": {
+      "status": "Dedicated",
+      "detail": "20 November 2022",
+      "source_section": "Dedicated",
+      "noted_by": "Quentin L. Cook"
+    },
+    "San Juan Puerto Rico Temple": {
+      "status": "Dedicated",
+      "detail": "15 January 2023",
+      "source_section": "Dedicated",
+      "noted_by": "D. Todd Christofferson"
+    },
+    "Richmond Virginia Temple": {
+      "status": "Dedicated",
+      "detail": "7 May 2023",
+      "source_section": "Dedicated",
+      "noted_by": "Dallin H. Oaks"
+    },
+    "Helena Montana Temple": {
+      "status": "Dedicated",
+      "detail": "18 June 2023",
+      "source_section": "Dedicated",
+      "noted_by": "Gary E. Stevenson"
+    },
+    "Saratoga Springs Utah Temple": {
+      "status": "Dedicated",
+      "detail": "13 August 2023",
+      "source_section": "Dedicated",
+      "noted_by": "Henry B. Eyring"
+    },
+    "Brasília Brazil Temple": {
+      "status": "Dedicated",
+      "detail": "17 September 2023",
+      "source_section": "Dedicated",
+      "noted_by": "Neil L. Andersen"
+    },
+    "Bentonville Arkansas Temple": {
+      "status": "Dedicated",
+      "detail": "17 September 2023",
+      "source_section": "Dedicated",
+      "noted_by": "David A. Bednar"
+    },
+    "Moses Lake Washington Temple": {
+      "status": "Dedicated",
+      "detail": "17 September 2023",
+      "source_section": "Dedicated",
+      "noted_by": "Quentin L. Cook"
+    },
+    "McAllen Texas Temple": {
+      "status": "Dedicated",
+      "detail": "8 October 2023",
+      "source_section": "Dedicated",
+      "noted_by": "Dieter F. Uchtdorf"
+    },
+    "Feather River California Temple": {
+      "status": "Dedicated",
+      "detail": "8 October 2023",
+      "source_section": "Dedicated",
+      "noted_by": "Ulisses Soares"
+    },
+    "Bangkok Thailand Temple": {
+      "status": "Dedicated",
+      "detail": "22 October 2023",
+      "source_section": "Dedicated",
+      "noted_by": "Ronald A. Rasband"
+    },
+    "Okinawa Japan Temple": {
+      "status": "Dedicated",
+      "detail": "12 November 2023",
+      "source_section": "Dedicated",
+      "noted_by": "Gary E. Stevenson"
+    },
+    "Lima Peru Los Olivos Temple": {
+      "status": "Dedicated",
+      "detail": "14 January 2024",
+      "source_section": "Dedicated",
+      "noted_by": "D. Todd Christofferson"
+    },
+    "Orem Utah Temple": {
+      "status": "Dedicated",
+      "detail": "21 January 2024",
+      "source_section": "Dedicated",
+      "noted_by": "D. Todd Christofferson"
+    },
+    "Red Cliffs Utah Temple": {
+      "status": "Dedicated",
+      "detail": "24 March 2024",
+      "source_section": "Dedicated",
+      "noted_by": "Henry B. Eyring"
+    },
+    "Urdaneta Philippines Temple": {
+      "status": "Dedicated",
+      "detail": "28 April 2024",
+      "source_section": "Dedicated",
+      "noted_by": "Dallin H. Oaks"
+    },
+    "Puebla Mexico Temple": {
+      "status": "Dedicated",
+      "detail": "19 May 2024",
+      "source_section": "Dedicated",
+      "noted_by": "Gerrit W. Gong"
+    },
+    "Taylorsville Utah Temple": {
+      "status": "Dedicated",
+      "detail": "2 June 2024",
+      "source_section": "Dedicated",
+      "noted_by": "Gerrit W. Gong"
+    },
+    "Cobán Guatemala Temple": {
+      "status": "Dedicated",
+      "detail": "9 June 2024",
+      "source_section": "Dedicated",
+      "noted_by": "Dale G. Renlund"
+    },
+    "Salta Argentina Temple": {
+      "status": "Dedicated",
+      "detail": "16 June 2024",
+      "source_section": "Dedicated",
+      "noted_by": "D. Todd Christofferson"
+    },
+    "Layton Utah Temple": {
+      "status": "Dedicated",
+      "detail": "16 June 2024",
+      "source_section": "Dedicated",
+      "noted_by": "David A. Bednar"
+    },
+    "Pittsburgh Pennsylvania Temple": {
+      "status": "Dedicated",
+      "detail": "15 September 2024",
+      "source_section": "Dedicated",
+      "noted_by": "Dieter F. Uchtdorf"
+    },
+    "Mendoza Argentina Temple": {
+      "status": "Dedicated",
+      "detail": "22 September 2024",
+      "source_section": "Dedicated",
+      "noted_by": "Ronald A. Rasband"
+    },
+    "San Pedro Sula Honduras Temple": {
+      "status": "Dedicated",
+      "detail": "13 October 2024",
+      "source_section": "Dedicated",
+      "noted_by": "Dale G. Renlund"
+    },
+    "Salvador Brazil Temple": {
+      "status": "Dedicated",
+      "detail": "20 October 2024",
+      "source_section": "Dedicated",
+      "noted_by": "Neil L. Andersen"
+    },
+    "Deseret Peak Utah Temple": {
+      "status": "Dedicated",
+      "detail": "10 November 2024",
+      "source_section": "Dedicated",
+      "noted_by": "Russell M. Nelson"
+    },
+    "Casper Wyoming Temple": {
+      "status": "Dedicated",
+      "detail": "24 November 2024",
+      "source_section": "Dedicated",
+      "noted_by": "Quentin L. Cook"
+    },
+    "Tallahassee Florida Temple": {
+      "status": "Dedicated",
+      "detail": "8 December 2024",
+      "source_section": "Dedicated",
+      "noted_by": "Patrick Kearon"
+    },
+    "Auckland New Zealand Temple": {
+      "status": "Dedicated",
+      "detail": "13 April 2025",
+      "source_section": "Dedicated",
+      "noted_by": "Patrick Kearon"
+    },
+    "Nairobi Kenya Temple": {
+      "status": "Dedicated",
+      "detail": "18 May 2025",
+      "source_section": "Dedicated",
+      "noted_by": "Ulisses Soares"
+    },
+    "Abidjan Ivory Coast Temple": {
+      "status": "Dedicated",
+      "detail": "25 May 2025",
+      "source_section": "Dedicated",
+      "noted_by": "Ronald A. Rasband"
+    },
+    "Syracuse Utah Temple": {
+      "status": "Dedicated",
+      "detail": "8 June 2025",
+      "source_section": "Dedicated",
+      "noted_by": "Russell M. Nelson"
+    },
+    "Antofagasta Chile Temple": {
+      "status": "Dedicated",
+      "detail": "15 June 2025",
+      "source_section": "Dedicated",
+      "noted_by": "Gary E. Stevenson"
+    },
+    "Farmington New Mexico Temple": {
+      "status": "Dedicated",
+      "detail": "17 August 2025",
+      "source_section": "Dedicated",
+      "noted_by": "Neil L. Andersen"
+    },
+    "Elko Nevada Temple": {
+      "status": "Dedicated",
+      "detail": "12 October 2025",
+      "source_section": "Dedicated",
+      "noted_by": "Gary E. Stevenson"
+    },
+    "Grand Junction Colorado Temple": {
+      "status": "Dedicated",
+      "detail": "19 October 2025",
+      "source_section": "Dedicated",
+      "noted_by": "Jeffrey R. Holland"
+    },
+    "Bahía Blanca Argentina Temple": {
+      "status": "Under Construction",
+      "detail": "23 November 2025",
+      "source_section": "Under Construction",
+      "noted_by": "Ulisses Soares"
+    },
+    "Burley Idaho Temple": {
+      "status": "Under Construction",
+      "detail": "11 January 2026",
+      "source_section": "Under Construction"
+    },
+    "Alabang Philippines Temple": {
+      "status": "Under Construction",
+      "detail": "18 January 2026",
+      "source_section": "Under Construction",
+      "noted_by": "David A. Bednar"
+    },
+    "Harare Zimbabwe Temple": {
+      "status": "Under Construction",
+      "detail": "1 March 2026",
+      "source_section": "Under Construction",
+      "noted_by": "Gerrit W. Gong"
+    },
+    "Lindon Utah Temple": {
+      "status": "Under Construction",
+      "detail": "3 May 2026",
+      "source_section": "Under Construction"
+    },
+    "Davao Philippines Temple": {
+      "status": "Under Construction",
+      "detail": "14 November 2020",
+      "source_section": "Under Construction",
+      "noted_by": "Taniela B. Wakolo"
+    },
+    "Bengaluru India Temple": {
+      "status": "Under Construction",
+      "detail": "2 December 2020",
+      "source_section": "Under Construction",
+      "noted_by": "Robert K. William"
+    },
+    "Neiafu Tonga Temple": {
+      "status": "Under Construction",
+      "detail": "11 September 2021",
+      "source_section": "Under Construction",
+      "noted_by": "‘Inoke F. Kupu"
+    },
+    "Phnom Penh Cambodia Temple": {
+      "status": "Under Construction",
+      "detail": "18 September 2021",
+      "source_section": "Under Construction",
+      "noted_by": "Veasna Kuonno Neang"
+    },
+    "Pago Pago American Samoa Temple": {
+      "status": "Under Construction",
+      "detail": "30 October 2021",
+      "source_section": "Under Construction",
+      "noted_by": "K. Brett Nattress"
+    },
+    "Bacolod Philippines Temple": {
+      "status": "Under Construction",
+      "detail": "11 December 2021",
+      "source_section": "Under Construction",
+      "noted_by": "Taniela B. Wakolo"
+    },
+    "Freetown Sierra Leone Temple": {
+      "status": "Under Construction",
+      "detail": "19 March 2022",
+      "source_section": "Under Construction",
+      "noted_by": "Hugo E. Martinez"
+    },
+    "Yorba Linda California Temple": {
+      "status": "Under Construction",
+      "detail": "18 June 2022",
+      "source_section": "Under Construction",
+      "noted_by": "Mark A. Bragg"
+    },
+    "Smithfield Utah Temple": {
+      "status": "Under Construction",
+      "detail": "18 June 2022",
+      "source_section": "Under Construction",
+      "noted_by": "Quentin L. Cook"
+    },
+    "Lubumbashi Democratic Republic of the Congo Temple": {
+      "status": "Under Construction",
+      "detail": "20 August 2022",
+      "source_section": "Under Construction",
+      "noted_by": "Matthew L. Carpenter"
+    },
+    "Ephraim Utah Temple": {
+      "status": "Under Construction",
+      "detail": "27 August 2022",
+      "source_section": "Under Construction",
+      "noted_by": "Russell M. Nelson"
+    },
+    "Heber Valley Utah Temple": {
+      "status": "Under Construction",
+      "detail": "8 October 2022",
+      "source_section": "Under Construction",
+      "noted_by": "Russell M. Nelson"
+    },
+    "Willamette Valley Oregon Temple": {
+      "status": "Under Construction",
+      "detail": "29 October 2022",
+      "source_section": "Under Construction",
+      "noted_by": "Valeri V. Cordón"
+    },
+    "Managua Nicaragua Temple": {
+      "status": "Under Construction",
+      "detail": "26 November 2022",
+      "source_section": "Under Construction",
+      "noted_by": "Taylor G. Godoy"
+    },
+    "Miraflores Guatemala City Guatemala Temple": {
+      "status": "Under Construction",
+      "detail": "3 December 2022",
+      "source_section": "Under Construction",
+      "noted_by": "Patricio M. Giuffra"
+    },
+    "Torreón Mexico Temple": {
+      "status": "Under Construction",
+      "detail": "10 December 2022",
+      "source_section": "Under Construction",
+      "noted_by": "Hugo Montoya"
+    },
+    "Querétaro Mexico Temple": {
+      "status": "Under Construction",
+      "detail": "7 January 2023",
+      "source_section": "Under Construction",
+      "noted_by": "Adrián Ochoa"
+    },
+    "Port Vila Vanuatu Temple": {
+      "status": "Under Construction",
+      "detail": "8 April 2023",
+      "source_section": "Under Construction",
+      "noted_by": "K. Brett Nattress"
+    },
+    "Port Moresby Papua New Guinea Temple": {
+      "status": "Under Construction",
+      "detail": "22 April 2023",
+      "source_section": "Under Construction",
+      "noted_by": "Peter F. Meurs"
+    },
+    "Montpelier Idaho Temple": {
+      "status": "Under Construction",
+      "detail": "17 June 2023",
+      "source_section": "Under Construction",
+      "noted_by": "Ryan K. Olsen"
+    },
+    "Belo Horizonte Brazil Temple": {
+      "status": "Under Construction",
+      "detail": "17 June 2023",
+      "source_section": "Under Construction",
+      "noted_by": "Juan A. Uceda"
+    },
+    "Modesto California Temple": {
+      "status": "Under Construction",
+      "detail": "7 October 2023",
+      "source_section": "Under Construction",
+      "noted_by": "Gary B. Sabin"
+    },
+    "Fort Worth Texas Temple": {
+      "status": "Under Construction",
+      "detail": "28 October 2023",
+      "source_section": "Under Construction",
+      "noted_by": "Jose L. Alonso"
+    },
+    "Kaohsiung Taiwan Temple": {
+      "status": "Under Construction",
+      "detail": "25 November 2023",
+      "source_section": "Under Construction",
+      "noted_by": "Benjamin M.Z. Tai"
+    },
+    "Knoxville Tennessee Temple": {
+      "status": "Under Construction",
+      "detail": "27 January 2024",
+      "source_section": "Under Construction",
+      "noted_by": "Shayne M. Bowen"
+    },
+    "San Luis Potosí Mexico Temple": {
+      "status": "Under Construction",
+      "detail": "9 March 2024",
+      "source_section": "Under Construction",
+      "noted_by": "Sean Douglas"
+    },
+    "Cleveland Ohio Temple": {
+      "status": "Under Construction",
+      "detail": "1 June 2024",
+      "source_section": "Under Construction",
+      "noted_by": "Vaiangina Sikahema"
+    },
+    "Teton River Idaho Temple": {
+      "status": "Under Construction",
+      "detail": "1 June 2024",
+      "source_section": "Under Construction",
+      "noted_by": "Ricardo P. Giménez"
+    },
+    "Santa Cruz Bolivia Temple": {
+      "status": "Under Construction",
+      "detail": "8 June 2024",
+      "source_section": "Under Construction",
+      "noted_by": "Jorge F. Zeballos"
+    },
+    "Ribeirão Preto Brazil Temple": {
+      "status": "Under Construction",
+      "detail": "22 June 2024",
+      "source_section": "Under Construction",
+      "noted_by": "Joni L. Koch"
+    },
+    "Londrina Brazil Temple": {
+      "status": "Under Construction",
+      "detail": "17 August 2024",
+      "source_section": "Under Construction",
+      "noted_by": "Ciro Schmeil"
+    },
+    "Santiago West Chile Temple": {
+      "status": "Under Construction",
+      "detail": "17 August 2024",
+      "source_section": "Under Construction",
+      "noted_by": "Alan R. Walker"
+    },
+    "Austin Texas Temple": {
+      "status": "Under Construction",
+      "detail": "17 August 2024",
+      "source_section": "Under Construction",
+      "noted_by": "Michael A. Dunn"
+    },
+    "Cagayan de Oro Philippines Temple": {
+      "status": "Under Construction",
+      "detail": "31 August 2024",
+      "source_section": "Under Construction",
+      "noted_by": "Carlos G. Revillo Jr."
+    },
+    "Wichita Kansas Temple": {
+      "status": "Under Construction",
+      "detail": "7 September 2024",
+      "source_section": "Under Construction",
+      "noted_by": "Steven R. Bangerter"
+    },
+    "Cody Wyoming Temple": {
+      "status": "Under Construction",
+      "detail": "27 September 2024",
+      "source_section": "Under Construction",
+      "noted_by": "Steven R. Bangerter"
+    },
+    "Tarawa Kiribati Temple": {
+      "status": "Under Construction",
+      "detail": "2 November 2024",
+      "source_section": "Under Construction",
+      "noted_by": "Jeremy R. Jaggi"
+    },
+    "Grand Rapids Michigan Temple": {
+      "status": "Under Construction",
+      "detail": "7 December 2024",
+      "source_section": "Under Construction",
+      "noted_by": "Mathias Held"
+    },
+    "Tacloban City Philippines Temple": {
+      "status": "Under Construction",
+      "detail": "18 January 2025",
+      "source_section": "Under Construction",
+      "noted_by": "Michael B. Strong"
+    },
+    "Cali Colombia Temple": {
+      "status": "Under Construction",
+      "detail": "1 March 2025",
+      "source_section": "Under Construction",
+      "noted_by": "Jorge T. Becerra"
+    },
+    "Antananarivo Madagascar Temple": {
+      "status": "Under Construction",
+      "detail": "15 March 2025",
+      "source_section": "Under Construction",
+      "noted_by": "Denelson Silva"
+    },
+    "Birmingham England Temple": {
+      "status": "Under Construction",
+      "detail": "22 March 2025",
+      "source_section": "Under Construction",
+      "noted_by": "Scott D. Whiting"
+    },
+    "Lethbridge Alberta Temple": {
+      "status": "Under Construction",
+      "detail": "26 April 2025",
+      "source_section": "Under Construction",
+      "noted_by": "Randall K. Bennett"
+    },
+    "Lagos Nigeria Temple": {
+      "status": "Under Construction",
+      "detail": "10 May 2025",
+      "source_section": "Under Construction",
+      "noted_by": "Alfred Kyungu"
+    },
+    "Natal Brazil Temple": {
+      "status": "Under Construction",
+      "detail": "17 May 2025",
+      "source_section": "Under Construction",
+      "noted_by": "Mark D. Eddy"
+    },
+    "Benin City Nigeria Temple": {
+      "status": "Under Construction",
+      "detail": "24 May 2025",
+      "source_section": "Under Construction",
+      "noted_by": "Adeyinka A. Ojediran"
+    },
+    "Budapest Hungary Temple": {
+      "status": "Under Construction",
+      "detail": "21 June 2025",
+      "source_section": "Under Construction",
+      "noted_by": "Rubén V. Alliaud"
+    },
+    "Singapore Temple": {
+      "status": "Under Construction",
+      "detail": "28 June 2025",
+      "source_section": "Under Construction",
+      "noted_by": "Kelly R. Johnson"
+    },
+    "Wellington New Zealand Temple": {
+      "status": "Under Construction",
+      "detail": "2 August 2025",
+      "source_section": "Under Construction",
+      "noted_by": "Taniela B. Wakolo"
+    },
+    "Winchester Virginia Temple": {
+      "status": "Under Construction",
+      "detail": "9 August 2025",
+      "source_section": "Under Construction",
+      "noted_by": "Robert M. Daines"
+    },
+    "Tampa Florida Temple": {
+      "status": "Under Construction",
+      "detail": "23 August 2025",
+      "source_section": "Under Construction",
+      "noted_by": "Neil L. Andersen"
+    },
+    "Vancouver Washington Temple": {
+      "status": "Under Construction",
+      "detail": "23 August 2025",
+      "source_section": "Under Construction",
+      "noted_by": "Mark A. Bragg"
+    },
+    "Brazzaville Republic of the Congo Temple": {
+      "status": "Under Construction",
+      "detail": "23 August 2025",
+      "source_section": "Under Construction",
+      "noted_by": "Thierry K. Mutombo"
+    },
+    "Lone Mountain Nevada Temple": {
+      "status": "Under Construction",
+      "detail": "25 September 2025",
+      "source_section": "Under Construction",
+      "noted_by": "Michael A. Dunn"
+    },
+    "Fairbanks Alaska Temple": {
+      "status": "Under Construction",
+      "detail": "27 September 2025",
+      "source_section": "Under Construction",
+      "noted_by": "Peter M. Johnson"
+    },
+    "Kumasi Ghana Temple": {
+      "status": "Under Construction",
+      "detail": "18 October 2025",
+      "source_section": "Under Construction",
+      "noted_by": "Isaac K. Morrison"
+    },
+    "Cape Town South Africa Temple": {
+      "status": "Under Construction",
+      "detail": "25 October 2025",
+      "source_section": "Under Construction",
+      "noted_by": "Carlos A. Godoy"
+    },
+    "Brussels Belgium Temple": {
+      "status": "Announced",
+      "detail": "22 November 2025",
+      "source_section": "Announced",
+      "noted_by": "Jack N. Gerard"
+    },
+    "Jacksonville Florida Temple": {
+      "status": "Announced",
+      "detail": "24 January 2026",
+      "source_section": "Announced",
+      "noted_by": "Massimo De Feo"
+    },
+    "São Paulo East Brazil Temple": {
+      "status": "Announced",
+      "detail": "31 October 2022",
+      "source_section": "Announced",
+      "noted_by": "First Presidency"
+    },
+    "Mexico City Benemérito Mexico Temple": {
+      "status": "Announced",
+      "detail": "31 October 2022",
+      "source_section": "Announced",
+      "noted_by": "First Presidency"
+    },
+    "Santos Brazil Temple": {
+      "status": "Announced",
+      "detail": "28 November 2022",
+      "source_section": "Announced",
+      "noted_by": "First Presidency"
+    },
+    "Barcelona Spain Temple": {
+      "status": "Announced",
+      "detail": "9 January 2023",
+      "source_section": "Announced",
+      "noted_by": "First Presidency"
+    },
+    "Vitória Brazil Temple": {
+      "status": "Announced",
+      "detail": "27 February 2023",
+      "source_section": "Announced",
+      "noted_by": "First Presidency"
+    },
+    "Maceió Brazil Temple": {
+      "status": "Announced",
+      "detail": "6 March 2023",
+      "source_section": "Announced",
+      "noted_by": "First Presidency"
+    },
+    "Huehuetenango Guatemala Temple": {
+      "status": "Announced",
+      "detail": "20 March 2023",
+      "source_section": "Announced",
+      "noted_by": "First Presidency"
+    },
+    "Oslo Norway Temple": {
+      "status": "Announced",
+      "detail": "1 May 2023",
+      "source_section": "Announced",
+      "noted_by": "First Presidency"
+    },
+    "Charlotte North Carolina Temple": {
+      "status": "Announced",
+      "detail": "30 May 2023",
+      "source_section": "Announced",
+      "noted_by": "First Presidency"
+    },
+    "Bakersfield California Temple": {
+      "status": "Announced",
+      "detail": "25 July 2023",
+      "source_section": "Announced",
+      "noted_by": "First Presidency"
+    },
+    "La Paz Bolivia Temple": {
+      "status": "Announced",
+      "detail": "28 August 2023",
+      "source_section": "Announced",
+      "noted_by": "First Presidency"
+    },
+    "Teresina Brazil Temple": {
+      "status": "Announced",
+      "detail": "28 August 2023",
+      "source_section": "Announced",
+      "noted_by": "First Presidency"
+    },
+    "San Jose California Temple": {
+      "status": "Announced",
+      "detail": "28 August 2023",
+      "source_section": "Announced",
+      "noted_by": "First Presidency"
+    },
+    "Vienna Austria Temple": {
+      "status": "Announced",
+      "detail": "30 October 2023",
+      "source_section": "Announced",
+      "noted_by": "First Presidency"
+    },
+    "Harrisburg Pennsylvania Temple": {
+      "status": "Announced",
+      "detail": "30 October 2023",
+      "source_section": "Announced",
+      "noted_by": "First Presidency"
+    },
+    "Viña del Mar Chile Temple": {
+      "status": "Announced",
+      "detail": "6 November 2023",
+      "source_section": "Announced",
+      "noted_by": "First Presidency"
+    },
+    "Toluca Mexico Temple": {
+      "status": "Announced",
+      "detail": "20 November 2023",
+      "source_section": "Announced",
+      "noted_by": "First Presidency"
+    },
+    "João Pessoa Brazil Temple": {
+      "status": "Announced",
+      "detail": "20 November 2023",
+      "source_section": "Announced",
+      "noted_by": "First Presidency"
+    },
+    "Fairview Texas Temple": {
+      "status": "Announced",
+      "detail": "4 December 2023",
+      "source_section": "Announced",
+      "noted_by": "First Presidency"
+    },
+    "Cuernavaca Mexico Temple": {
+      "status": "Announced",
+      "detail": "16 January 2024",
+      "source_section": "Announced",
+      "noted_by": "First Presidency"
+    },
+    "Cusco Peru Temple": {
+      "status": "Announced",
+      "detail": "29 January 2024",
+      "source_section": "Announced",
+      "noted_by": "First Presidency"
+    },
+    "Iquitos Peru Temple": {
+      "status": "Announced",
+      "detail": "29 January 2024",
+      "source_section": "Announced",
+      "noted_by": "First Presidency"
+    },
+    "Jakarta Indonesia Temple": {
+      "status": "Announced",
+      "detail": "4 March 2024",
+      "source_section": "Announced",
+      "noted_by": "First Presidency"
+    },
+    "Osaka Japan Temple": {
+      "status": "Announced",
+      "detail": "4 March 2024",
+      "source_section": "Announced",
+      "noted_by": "First Presidency"
+    },
+    "Savai'i Samoa Temple": {
+      "status": "Announced",
+      "detail": "11 March 2024",
+      "source_section": "Announced",
+      "noted_by": "First Presidency"
+    },
+    "Kananga Democratic Republic of the Congo Temple": {
+      "status": "Announced",
+      "detail": "15 April 2024",
+      "source_section": "Announced",
+      "noted_by": "First Presidency"
+    },
+    "West Jordan Utah Temple": {
+      "status": "Announced",
+      "detail": "22 April 2024",
+      "source_section": "Announced",
+      "noted_by": "First Presidency"
+    },
+    "Lehi Utah Temple": {
+      "status": "Announced",
+      "detail": "22 April 2024",
+      "source_section": "Announced",
+      "noted_by": "First Presidency"
+    },
+    "Cincinnati Ohio Temple": {
+      "status": "Announced",
+      "detail": "29 April 2024",
+      "source_section": "Announced",
+      "noted_by": "First Presidency"
+    },
+    "Des Moines Iowa Temple": {
+      "status": "Announced",
+      "detail": "29 April 2024",
+      "source_section": "Announced",
+      "noted_by": "First Presidency"
+    },
+    "Springfield Missouri Temple": {
+      "status": "Announced",
+      "detail": "24 June 2024",
+      "source_section": "Announced",
+      "noted_by": "First Presidency"
+    },
+    "Tulsa Oklahoma Temple": {
+      "status": "Announced",
+      "detail": "12 August 2024",
+      "source_section": "Announced",
+      "noted_by": "First Presidency"
+    },
+    "Tacoma Washington Temple": {
+      "status": "Announced",
+      "detail": "16 September 2024",
+      "source_section": "Announced",
+      "noted_by": "First Presidency"
+    },
+    "Missoula Montana Temple": {
+      "status": "Announced",
+      "detail": "4 November 2024",
+      "source_section": "Announced",
+      "noted_by": "First Presidency"
+    },
+    "Colorado Springs Colorado Temple": {
+      "status": "Announced",
+      "detail": "4 November 2024",
+      "source_section": "Announced",
+      "noted_by": "First Presidency"
+    },
+    "Buenos Aires City Center Argentina Temple": {
+      "status": "Announced",
+      "detail": "16 December 2024",
+      "source_section": "Announced",
+      "noted_by": "First Presidency"
+    },
+    "Huntsville Alabama Temple": {
+      "status": "Announced",
+      "detail": "21 January 2025",
+      "source_section": "Announced",
+      "noted_by": "First Presidency"
+    },
+    "Florianópolis Brazil Temple": {
+      "status": "Announced",
+      "detail": "3 February 2025",
+      "source_section": "Announced",
+      "noted_by": "First Presidency"
+    },
+    "Culiacán Mexico Temple": {
+      "status": "Announced",
+      "detail": "18 February 2025",
+      "source_section": "Announced",
+      "noted_by": "First Presidency"
+    },
+    "Tuguegarao City Philippines Temple": {
+      "status": "Announced",
+      "detail": "18 February 2025",
+      "source_section": "Announced",
+      "noted_by": "First Presidency"
+    },
+    "Retalhuleu Guatemala Temple": {
+      "status": "Announced",
+      "detail": "31 March 2025",
+      "source_section": "Announced",
+      "noted_by": "First Presidency"
+    },
+    "Eket Nigeria Temple": {
+      "status": "Announced",
+      "detail": "22 April 2025",
+      "source_section": "Announced",
+      "noted_by": "First Presidency"
+    },
+    "Chihuahua Mexico Temple": {
+      "status": "Announced",
+      "detail": "9 June 2025",
+      "source_section": "Announced",
+      "noted_by": "First Presidency"
+    },
+    "Ulaanbaatar Mongolia Temple": {
+      "status": "Announced",
+      "detail": "15 September 2025",
+      "source_section": "Announced",
+      "noted_by": "First Presidency"
+    },
+    "Houston Texas South Temple": {
+      "status": "Announced",
+      "detail": "20 October 2025",
+      "source_section": "Announced",
+      "noted_by": "First Presidency"
+    },
+    "Piura Peru Temple": {
+      "status": "Announced",
+      "detail": "27 October 2025",
+      "source_section": "Announced",
+      "noted_by": "First Presidency"
+    },
+    "Calabar Nigeria Temple": {
+      "status": "Announced",
+      "detail": "10 November 2025",
+      "source_section": "Announced",
+      "noted_by": "First Presidency"
+    },
+    "Coeur d'Alene Idaho Temple": {
+      "status": "Announced",
+      "detail": "10 November 2025",
+      "source_section": "Announced",
+      "noted_by": "First Presidency"
+    },
+    "Russia Temple": {
+      "status": "Announced",
+      "detail": "1 April 2018",
+      "source_section": "Announced",
+      "noted_by": "First Presidency"
+    },
+    "Shanghai People's Republic of China Temple": {
+      "status": "Announced",
+      "detail": "5 April 2020",
+      "source_section": "Announced",
+      "noted_by": "First Presidency"
+    },
+    "Dubai United Arab Emirates Temple": {
+      "status": "Announced",
+      "detail": "5 April 2020",
+      "source_section": "Announced",
+      "noted_by": "First Presidency"
+    },
+    "Beira Mozambique Temple": {
+      "status": "Announced",
+      "detail": "4 April 2021",
+      "source_section": "Announced",
+      "noted_by": "First Presidency"
+    },
+    "Monrovia Liberia Temple": {
+      "status": "Announced",
+      "detail": "3 October 2021",
+      "source_section": "Announced",
+      "noted_by": "First Presidency"
+    },
+    "Busan Korea Temple": {
+      "status": "Announced",
+      "detail": "2 October 2022",
+      "source_section": "Announced",
+      "noted_by": "First Presidency"
+    },
+    "Naga Philippines Temple": {
+      "status": "Announced",
+      "detail": "2 October 2022",
+      "source_section": "Announced",
+      "noted_by": "First Presidency"
+    },
+    "Santiago Philippines Temple": {
+      "status": "Announced",
+      "detail": "2 October 2022",
+      "source_section": "Announced",
+      "noted_by": "First Presidency"
+    },
+    "Chiclayo Peru Temple": {
+      "status": "Announced",
+      "detail": "2 October 2022",
+      "source_section": "Announced",
+      "noted_by": "First Presidency"
+    },
+    "Pachuca Mexico Temple": {
+      "status": "Announced",
+      "detail": "2 October 2022",
+      "source_section": "Announced",
+      "noted_by": "First Presidency"
+    },
+    "Tula Mexico Temple": {
+      "status": "Announced",
+      "detail": "2 October 2022",
+      "source_section": "Announced",
+      "noted_by": "First Presidency"
+    },
+    "Iloilo Philippines Temple": {
+      "status": "Announced",
+      "detail": "2 April 2023",
+      "source_section": "Announced",
+      "noted_by": "First Presidency"
+    },
+    "Hamburg Germany Temple": {
+      "status": "Announced",
+      "detail": "2 April 2023",
+      "source_section": "Announced",
+      "noted_by": "First Presidency"
+    },
+    "Laoag Philippines Temple": {
+      "status": "Announced",
+      "detail": "1 October 2023",
+      "source_section": "Announced",
+      "noted_by": "First Presidency"
+    },
+    "Mbuji-Mayi Democratic Republic of the Congo Temple": {
+      "status": "Announced",
+      "detail": "1 October 2023",
+      "source_section": "Announced",
+      "noted_by": "First Presidency"
+    },
+    "Luanda Angola Temple": {
+      "status": "Announced",
+      "detail": "1 October 2023",
+      "source_section": "Announced",
+      "noted_by": "First Presidency"
+    },
+    "Cape Coast Ghana Temple": {
+      "status": "Announced",
+      "detail": "1 October 2023",
+      "source_section": "Announced",
+      "noted_by": "First Presidency"
+    },
+    "Goiânia Brazil Temple": {
+      "status": "Announced",
+      "detail": "1 October 2023",
+      "source_section": "Announced",
+      "noted_by": "First Presidency"
+    },
+    "Huancayo Peru Temple": {
+      "status": "Announced",
+      "detail": "1 October 2023",
+      "source_section": "Announced",
+      "noted_by": "First Presidency"
+    },
+    "Roanoke Virginia Temple": {
+      "status": "Announced",
+      "detail": "1 October 2023",
+      "source_section": "Announced",
+      "noted_by": "First Presidency"
+    },
+    "Cancún Mexico Temple": {
+      "status": "Announced",
+      "detail": "1 October 2023",
+      "source_section": "Announced",
+      "noted_by": "First Presidency"
+    },
+    "Kahului Hawaii Temple": {
+      "status": "Announced",
+      "detail": "1 October 2023",
+      "source_section": "Announced",
+      "noted_by": "First Presidency"
+    },
+    "Brisbane Australia South Temple": {
+      "status": "Announced",
+      "detail": "7 April 2024",
+      "source_section": "Announced",
+      "noted_by": "First Presidency"
+    },
+    "Edinburgh Scotland Temple": {
+      "status": "Announced",
+      "detail": "7 April 2024",
+      "source_section": "Announced",
+      "noted_by": "First Presidency"
+    },
+    "Rosario Argentina Temple": {
+      "status": "Announced",
+      "detail": "7 April 2024",
+      "source_section": "Announced",
+      "noted_by": "First Presidency"
+    },
+    "Maracaibo Venezuela Temple": {
+      "status": "Announced",
+      "detail": "7 April 2024",
+      "source_section": "Announced",
+      "noted_by": "First Presidency"
+    },
+    "Yuma Arizona Temple": {
+      "status": "Announced",
+      "detail": "7 April 2024",
+      "source_section": "Announced",
+      "noted_by": "First Presidency"
+    },
+    "Victoria British Columbia Temple": {
+      "status": "Announced",
+      "detail": "7 April 2024",
+      "source_section": "Announced",
+      "noted_by": "First Presidency"
+    },
+    "Uturoa French Polynesia Temple": {
+      "status": "Announced",
+      "detail": "7 April 2024",
+      "source_section": "Announced",
+      "noted_by": "First Presidency"
+    },
+    "Honolulu Hawaii Temple": {
+      "status": "Announced",
+      "detail": "7 April 2024",
+      "source_section": "Announced",
+      "noted_by": "First Presidency"
+    },
+    "Juchitán de Zaragoza Mexico Temple": {
+      "status": "Announced",
+      "detail": "6 October 2024",
+      "source_section": "Announced",
+      "noted_by": "First Presidency"
+    },
+    "Santa Ana El Salvador Temple": {
+      "status": "Announced",
+      "detail": "6 October 2024",
+      "source_section": "Announced",
+      "noted_by": "First Presidency"
+    },
+    "Medellín Colombia Temple": {
+      "status": "Announced",
+      "detail": "6 October 2024",
+      "source_section": "Announced",
+      "noted_by": "First Presidency"
+    },
+    "Santiago Dominican Republic Temple": {
+      "status": "Announced",
+      "detail": "6 October 2024",
+      "source_section": "Announced",
+      "noted_by": "First Presidency"
+    },
+    "Puerto Montt Chile Temple": {
+      "status": "Announced",
+      "detail": "6 October 2024",
+      "source_section": "Announced",
+      "noted_by": "First Presidency"
+    },
+    "Dublin Ireland Temple": {
+      "status": "Announced",
+      "detail": "6 October 2024",
+      "source_section": "Announced",
+      "noted_by": "First Presidency"
+    },
+    "Milan Italy Temple": {
+      "status": "Announced",
+      "detail": "6 October 2024",
+      "source_section": "Announced",
+      "noted_by": "First Presidency"
+    },
+    "Abuja Nigeria Temple": {
+      "status": "Announced",
+      "detail": "6 October 2024",
+      "source_section": "Announced",
+      "noted_by": "First Presidency"
+    },
+    "Kampala Uganda Temple": {
+      "status": "Announced",
+      "detail": "6 October 2024",
+      "source_section": "Announced",
+      "noted_by": "First Presidency"
+    },
+    "Maputo Mozambique Temple": {
+      "status": "Announced",
+      "detail": "6 October 2024",
+      "source_section": "Announced",
+      "noted_by": "First Presidency"
+    },
+    "Queen Creek Arizona Temple": {
+      "status": "Announced",
+      "detail": "6 October 2024",
+      "source_section": "Announced",
+      "noted_by": "First Presidency"
+    },
+    "El Paso Texas Temple": {
+      "status": "Announced",
+      "detail": "6 October 2024",
+      "source_section": "Announced",
+      "noted_by": "First Presidency"
+    },
+    "Milwaukee Wisconsin Temple": {
+      "status": "Announced",
+      "detail": "6 October 2024",
+      "source_section": "Announced",
+      "noted_by": "First Presidency"
+    },
+    "Summit New Jersey Temple": {
+      "status": "Announced",
+      "detail": "6 October 2024",
+      "source_section": "Announced",
+      "noted_by": "First Presidency"
+    },
+    "Price Utah Temple": {
+      "status": "Announced",
+      "detail": "6 October 2024",
+      "source_section": "Announced",
+      "noted_by": "First Presidency"
+    },
+    "Reynosa Mexico Temple": {
+      "status": "Announced",
+      "detail": "6 April 2025",
+      "source_section": "Announced",
+      "noted_by": "First Presidency"
+    },
+    "Chorrillos Peru Temple": {
+      "status": "Announced",
+      "detail": "6 April 2025",
+      "source_section": "Announced",
+      "noted_by": "First Presidency"
+    },
+    "Rivera Uruguay Temple": {
+      "status": "Announced",
+      "detail": "6 April 2025",
+      "source_section": "Announced",
+      "noted_by": "First Presidency"
+    },
+    "Campo Grande Brazil Temple": {
+      "status": "Announced",
+      "detail": "6 April 2025",
+      "source_section": "Announced",
+      "noted_by": "First Presidency"
+    },
+    "Porto Portugal Temple": {
+      "status": "Announced",
+      "detail": "6 April 2025",
+      "source_section": "Announced",
+      "noted_by": "First Presidency"
+    },
+    "Uyo Nigeria Temple": {
+      "status": "Announced",
+      "detail": "6 April 2025",
+      "source_section": "Announced",
+      "noted_by": "First Presidency"
+    },
+    "San Jose del Monte Philippines Temple": {
+      "status": "Announced",
+      "detail": "6 April 2025",
+      "source_section": "Announced",
+      "noted_by": "First Presidency"
+    },
+    "Nouméa New Caledonia Temple": {
+      "status": "Announced",
+      "detail": "6 April 2025",
+      "source_section": "Announced",
+      "noted_by": "First Presidency"
+    },
+    "Liverpool Australia Temple": {
+      "status": "Announced",
+      "detail": "6 April 2025",
+      "source_section": "Announced",
+      "noted_by": "First Presidency"
+    },
+    "Caldwell Idaho Temple": {
+      "status": "Announced",
+      "detail": "6 April 2025",
+      "source_section": "Announced",
+      "noted_by": "First Presidency"
+    },
+    "Flagstaff Arizona Temple": {
+      "status": "Announced",
+      "detail": "6 April 2025",
+      "source_section": "Announced",
+      "noted_by": "First Presidency"
+    },
+    "Rapid City South Dakota Temple": {
+      "status": "Announced",
+      "detail": "6 April 2025",
+      "source_section": "Announced",
+      "noted_by": "First Presidency"
+    },
+    "Greenville South Carolina Temple": {
+      "status": "Announced",
+      "detail": "6 April 2025",
+      "source_section": "Announced",
+      "noted_by": "First Presidency"
+    },
+    "Norfolk Virginia Temple": {
+      "status": "Announced",
+      "detail": "6 April 2025",
+      "source_section": "Announced",
+      "noted_by": "First Presidency"
+    },
+    "Spanish Fork Utah Temple": {
+      "status": "Announced",
+      "detail": "6 April 2025",
+      "source_section": "Announced",
+      "noted_by": "First Presidency"
+    }
+  }
+}

@@ -1,15 +1,4 @@
-// Global variables
-let map;
-let markers = [];
-let temples = [];
-let currentYear = 1836;
-let isPlaying = false;
-let playInterval;
-let showUndedicated = false;
-
-// Embedded temple data
-const templeData = [
-  
+[
   {
     "name": "Aba Nigeria Temple",
     "lat": 5.1477438,
@@ -18,25 +7,9 @@ const templeData = [
     "country": "Nigeria"
   },
   {
-    "name": "Kirtland Temple",
-    "lat": 41.6283,
-    "lng": -81.3614,
-    "year": 1836,
-    "country": "United States",
-    
-  },
-  {
-    "name": "Nauvoo Temple",
-    "lat": 40.5503,
-    "lng": -91.3804,
-    "year": 1846,
-    "country": "United States",
-    
-  },
-  {
     "name": "Abidjan Ivory Coast Temple",
-    "lat": "5.3623",
-    "lng": "3.9768",
+    "lat": "",
+    "lng": "",
     "year": 2025,
     "country": "Côte d'Ivoire"
   },
@@ -70,8 +43,8 @@ const templeData = [
   },
   {
     "name": "Albuquerque New Mexico Temple",
-    "lat": "35.1676768",
-    "lng": "-106.5260634",
+    "lat": 35.1676768,
+    "lng": -106.5260634,
     "year": 2000,
     "country": "United States"
   },
@@ -84,22 +57,22 @@ const templeData = [
   },
   {
     "name": "Antananarivo Madagascar Temple",
-    "lat": 18.8539,
-    "lng": 47.4785,
+    "lat": "",
+    "lng": "",
     "year": null,
     "country": "Madagascar"
   },
   {
     "name": "Antofagasta Chile Temple",
-    "lat": -23.5718,
-    "lng": -70.3945,
+    "lat": "",
+    "lng": "",
     "year": 2025,
     "country": "Chile"
   },
   {
     "name": "Apia Samoa Temple",
-    "lat": -13.83806,
-    "lng": -171.78306,
+    "lat": "",
+    "lng": "",
     "year": 1983,
     "country": "Samoa"
   },
@@ -112,8 +85,8 @@ const templeData = [
   },
   {
     "name": "Asunción Paraguay Temple",
-    "lat": -25.28792,
-    "lng": -57.60287,
+    "lat": "",
+    "lng": "",
     "year": 2002,
     "country": "Paraguay"
   },
@@ -140,8 +113,8 @@ const templeData = [
   },
   {
     "name": "Bacolod Philippines Temple",
-    "lat": 10.696810625522579,
-    "lng": 122.9894129760167,
+    "lat": "",
+    "lng": "",
     "year": null,
     "country": "Philippines"
   },
@@ -154,8 +127,8 @@ const templeData = [
   },
   {
     "name": "Bakersfield California Temple",
-    "lat": 35.35498442985919,
-    "lng": -119.13774064463784,
+    "lat": "",
+    "lng": "",
     "year": null,
     "country": "United States"
   },
@@ -168,15 +141,15 @@ const templeData = [
   },
   {
     "name": "Barcelona Spain Temple",
-    "lat": "41.48746553",
-    "lng": "2.06931235",
+    "lat": "",
+    "lng": "",
     "year": null,
     "country": "Spain"
   },
   {
     "name": "Barranquilla Colombia Temple",
-    "lat": "11.017192973484615",
-    "lng": "-74.8617454416917",
+    "lat": "",
+    "lng": "",
     "year": 2018,
     "country": "Colombia"
   },
@@ -203,22 +176,22 @@ const templeData = [
   },
   {
     "name": "Belo Horizonte Brazil Temple",
-    "lat": "19.9240",
-    "lng": "43.9455",
+    "lat": "",
+    "lng": "",
     "year": null,
     "country": "Brazil"
   },
   {
     "name": "Bengaluru India Temple",
-    "lat": "12.9922",
-    "lng": "77.7047",
+    "lat": "",
+    "lng": "",
     "year": null,
     "country": "India"
   },
   {
     "name": "Benin City Nigeria Temple",
-    "lat": "6.3392",
-    "lng": "5.6174",
+    "lat": "",
+    "lng": "",
     "year": null,
     "country": "Nigeria"
   },
@@ -231,8 +204,8 @@ const templeData = [
   },
   {
     "name": "Bern Switzerland Temple",
-    "lat": "47.0022",
-    "lng": "7.4582",
+    "lat": "",
+    "lng": "",
     "year": 1955,
     "country": "Switzerland"
   },
@@ -294,15 +267,15 @@ const templeData = [
   },
   {
     "name": "Brasília Brazil Temple",
-    "lat": "-15.7480",
-    "lng": "-47.8809",
+    "lat": "",
+    "lng": "",
     "year": 2023,
     "country": "Brazil"
   },
   {
     "name": "Brazzaville Republic of the Congo Temple",
-    "lat": "4.2828",
-    "lng": "15.2585",
+    "lat": "",
+    "lng": "",
     "year": null,
     "country": "Republic of the Congo"
   },
@@ -329,15 +302,15 @@ const templeData = [
   },
   {
     "name": "Brussels Belgium Temple",
-    "lat": "50.8417",
-    "lng": "4.3671",
+    "lat": "",
+    "lng": "",
     "year": null,
     "country": "Belgium"
   },
   {
     "name": "Budapest Hungary Temple",
-    "lat": "47.5702",
-    "lng": "19.0063",
+    "lat": "",
+    "lng": "",
     "year": null,
     "country": "Hungary"
   },
@@ -350,15 +323,15 @@ const templeData = [
   },
   {
     "name": "Buenos Aires City Center Argentina Temple",
-    "lat": "-34.5991",
-    "lng": "-58.3731",
+    "lat": "",
+    "lng": "",
     "year": null,
     "country": "Argentina"
   },
   {
     "name": "Burley Idaho Temple",
-    "lat": "42.525",
-    "lng": "-113.746",
+    "lat": "",
+    "lng": "",
     "year": null,
     "country": "United States"
   },
@@ -371,8 +344,8 @@ const templeData = [
   },
   {
     "name": "Cagayan de Oro Philippines Temple",
-    "lat": "8.477",
-    "lng": "124.643",
+    "lat": "",
+    "lng": "",
     "year": null,
     "country": "Philippines"
   },
@@ -399,8 +372,8 @@ const templeData = [
   },
   {
     "name": "Cali Colombia Temple",
-    "lat": "3.437",
-    "lng": "-76.535",
+    "lat": "",
+    "lng": "",
     "year": null,
     "country": "Colombia"
   },
@@ -434,15 +407,15 @@ const templeData = [
   },
   {
     "name": "Cape Town South Africa Temple",
-    "lat": "-33.9340",
-    "lng": "18.4210",
+    "lat": "",
+    "lng": "",
     "year": null,
     "country": "South Africa"
   },
   {
     "name": "Caracas Venezuela Temple",
-    "lat": "10.470849",
-    "lng": "-66.837293",
+    "lat": "",
+    "lng": "",
     "year": 2000,
     "country": "Venezuela"
   },
@@ -476,8 +449,8 @@ const templeData = [
   },
   {
     "name": "Charlotte North Carolina Temple",
-    "lat": "35.0195",
-    "lng": "-80.7428",
+    "lat": "",
+    "lng": "",
     "year": null,
     "country": "United States"
   },
@@ -511,8 +484,8 @@ const templeData = [
   },
   {
     "name": "Cincinnati Ohio Temple",
-    "lat": "39.32725",
-    "lng": "-84.31688",
+    "lat": "",
+    "lng": "",
     "year": null,
     "country": "United States"
   },
@@ -525,8 +498,8 @@ const templeData = [
   },
   {
     "name": "Cleveland Ohio Temple",
-    "lat": "41.3866",
-    "lng": "-81.6395",
+    "lat": "",
+    "lng": "",
     "year": null,
     "country": "United States"
   },
@@ -546,8 +519,8 @@ const templeData = [
   },
   {
     "name": "Cody Wyoming Temple",
-    "lat": "44.5114",
-    "lng": "-109.0819",
+    "lat": "",
+    "lng": "",
     "year": null,
     "country": "United States"
   },
@@ -616,15 +589,15 @@ const templeData = [
   },
   {
     "name": "Cuernavaca Mexico Temple",
-    "lat": "39.0178",
-    "lng": "-104.7848",
+    "lat": "",
+    "lng": "",
     "year": null,
     "country": "Mexico"
   },
   {
     "name": "Culiacán Mexico Temple",
-    "lat": "24.7919",
-    "lng": "-107.4419",
+    "lat": "",
+    "lng": "",
     "year": null,
     "country": "Mexico"
   },
@@ -651,8 +624,8 @@ const templeData = [
   },
   {
     "name": "Davao Philippines Temple",
-    "lat": "-13.5161",
-    "lng": "-71.9852",
+    "lat": "",
+    "lng": "",
     "year": null,
     "country": "Philippines"
   },
@@ -665,8 +638,8 @@ const templeData = [
   },
   {
     "name": "Des Moines Iowa Temple",
-    "lat": "41.6773",
-    "lng": "-93.7355",
+    "lat": "",
+    "lng": "",
     "year": null,
     "country": "United States"
   },
@@ -707,8 +680,8 @@ const templeData = [
   },
   {
     "name": "Durban South Africa Temple",
-    "lat": "-29.7264",
-    "lng": "31.0909",
+    "lat": "",
+    "lng": "",
     "year": 2020,
     "country": "South Africa"
   },
@@ -749,30 +722,30 @@ const templeData = [
   },
   {
     "name": "Ephraim Utah Temple",
-    "lat": "39.3636",
-    "lng": "-111.5767",
+    "lat": "",
+    "lng": "",
     "year": null,
     "country": "United States"
   },
   {
     "name": "Fairbanks Alaska Temple",
-    "lat": "64.8375",
-    "lng": "-147.6960",
+    "lat": "",
+    "lng": "",
     "year": null,
     "country": "United States"
   },
   {
     "name": "Fairview Texas Temple",
-    "lat": "33.13000",
-    "lng": "-96.62778",
+    "lat": "",
+    "lng": "",
     "year": null,
     "country": "United States"
   },
   {
     "name": "Farmington New Mexico Temple",
-    "lat": "36.7698",
-    "lng": "-108.1649",
-    "year": 2025,
+    "lat": "",
+    "lng": "",
+    "year": null,
     "country": "United States"
   },
   {
@@ -791,8 +764,8 @@ const templeData = [
   },
   {
     "name": "Florianópolis Brazil Temple",
-    "lat": "-27.5935",
-    "lng": "-48.5585",
+    "lat": "",
+    "lng": "",
     "year": null,
     "country": "Brazil"
   },
@@ -833,8 +806,8 @@ const templeData = [
   },
   {
     "name": "Freetown Sierra Leone Temple",
-    "lat": "8.3876",
-    "lng": "-13.1388",
+    "lat": "",
+    "lng": "",
     "year": null,
     "country": "Sierra Leone"
   },
@@ -882,8 +855,8 @@ const templeData = [
   },
   {
     "name": "Grand Rapids Michigan Temple",
-    "lat": "42.8937",
-    "lng": "-85.5121",
+    "lat": "",
+    "lng": "",
     "year": null,
     "country": "United States"
   },
@@ -917,8 +890,8 @@ const templeData = [
   },
   {
     "name": "Halifax Nova Scotia Temple",
-    "lat": "44.6700",
-    "lng": "-63.4890",
+    "lat": "",
+    "lng": "",
     "year": 1999,
     "country": "Canada"
   },
@@ -931,22 +904,22 @@ const templeData = [
   },
   {
     "name": "Hamilton New Zealand Temple",
-    "lat": "-37.8263",
-    "lng": "175.2246",
+    "lat": "",
+    "lng": "",
     "year": 1958,
     "country": "New Zealand"
   },
   {
     "name": "Harare Zimbabwe Temple",
-    "lat": "-17.8040",
-    "lng": "31.0825",
+    "lat": "",
+    "lng": "",
     "year": null,
     "country": "Zimbabwe"
   },
   {
     "name": "Harrisburg Pennsylvania Temple",
-    "lat": "40.28396",
-    "lng": "-76.80294",
+    "lat": "",
+    "lng": "",
     "year": null,
     "country": "United States"
   },
@@ -959,15 +932,15 @@ const templeData = [
   },
   {
     "name": "Heber Valley Utah Temple",
-    "lat": "40.5071",
-    "lng": "-111.3929",
+    "lat": "",
+    "lng": "",
     "year": null,
     "country": "United States"
   },
   {
     "name": "Helena Montana Temple",
-    "lat": "46.6336",
-    "lng": "-112.0192",
+    "lat": "",
+    "lng": "",
     "year": 2023,
     "country": "United States"
   },
@@ -1008,8 +981,8 @@ const templeData = [
   },
   {
     "name": "Houston Texas Temple",
-    "lat": "29.9996",
-    "lng": "-95.5333",
+    "lat": "",
+    "lng": "",
     "year": 2000,
     "country": "United States"
   },
@@ -1022,15 +995,15 @@ const templeData = [
   },
   {
     "name": "Huehuetenango Guatemala Temple",
-    "lat": "15.3262",
-    "lng": "-91.4899",
+    "lat": "",
+    "lng": "",
     "year": null,
     "country": "Guatemala"
   },
   {
     "name": "Huntsville Alabama Temple",
-    "lat": "34.72828932019436",
-    "lng": "-86.78282759280738",
+    "lat": "",
+    "lng": "",
     "year": null,
     "country": "United States"
   },
@@ -1057,29 +1030,29 @@ const templeData = [
   },
   {
     "name": "Iquitos Peru Temple",
-    "lat": "-3.7607686052902456",
-    "lng": "-73.26737802015536",
+    "lat": "",
+    "lng": "",
     "year": null,
     "country": "Peru"
   },
   {
     "name": "Jacksonville Florida Temple",
-    "lat": "30.3095",
-    "lng": "-81.5942",
+    "lat": "",
+    "lng": "",
     "year": null,
     "country": "United States"
   },
   {
     "name": "Jakarta Indonesia Temple",
-    "lat": "-6.240902",
-    "lng": "106.837533",
+    "lat": "",
+    "lng": "",
     "year": null,
     "country": "Indonesia"
   },
   {
     "name": "João Pessoa Brazil Temple",
-    "lat": "-7.1245",
-    "lng": "-34.8287",
+    "lat": "",
+    "lng": "",
     "year": null,
     "country": "Brazil"
   },
@@ -1120,8 +1093,8 @@ const templeData = [
   },
   {
     "name": "Kananga Democratic Republic of the Congo Temple",
-    "lat": "-5.8952",
-    "lng": "22.4297",
+    "lat": "",
+    "lng": "",
     "year": null,
     "country": "Democratic Republic of the Congo"
   },
@@ -1134,15 +1107,15 @@ const templeData = [
   },
   {
     "name": "Kaohsiung Taiwan Temple",
-    "lat": "22.6508",
-    "lng": "120.2995",
+    "lat": "",
+    "lng": "",
     "year": null,
     "country": "Taiwan"
   },
   {
     "name": "Kinshasa Democratic Republic of the Congo Temple",
-    "lat": "-4.3275",
-    "lng": "15.2738",
+    "lat": "",
+    "lng": "",
     "year": 2019,
     "country": "Democratic Republic of the Congo"
   },
@@ -1157,34 +1130,34 @@ const templeData = [
     "name": "Kona Hawaii Temple",
     "lat": 19.6416539,
     "lng": -155.985315,
-    "year": 2000,
+    "year": null,
     "country": "United States"
   },
   {
     "name": "Kumasi Ghana Temple",
-    "lat": "6.6885",
-    "lng": "-1.6244",
+    "lat": "",
+    "lng": "",
     "year": null,
     "country": "Ghana"
   },
   {
     "name": "Kyiv Ukraine Temple",
-    "lat": "50.4045",
-    "lng": "30.3956",
+    "lat": "",
+    "lng": "",
     "year": 2010,
     "country": "Ukraine"
   },
   {
     "name": "La Paz Bolivia Temple",
-    "lat": "-16.5440",
-    "lng": "-68.0898",
+    "lat": "",
+    "lng": "",
     "year": null,
     "country": "Bolivia"
   },
   {
     "name": "Lagos Nigeria Temple",
-    "lat": "6.4449",
-    "lng": "3.4314",
+    "lat": "",
+    "lng": "",
     "year": null,
     "country": "Nigeria"
   },
@@ -1211,29 +1184,29 @@ const templeData = [
   },
   {
     "name": "Layton Utah Temple",
-    "lat": "41.0622",
-    "lng": "-111.9403",
+    "lat": "",
+    "lng": "",
     "year": 2024,
     "country": "United States"
   },
   {
     "name": "Lehi Utah Temple",
-    "lat": "40.4387",
-    "lng": "-111.8517",
+    "lat": "",
+    "lng": "",
     "year": null,
     "country": "United States"
   },
   {
     "name": "Lethbridge Alberta Temple",
-    "lat": "49.67048",
-    "lng": "-112.91018",
+    "lat": "",
+    "lng": "",
     "year": null,
     "country": "Canada"
   },
   {
     "name": "Lima Peru Los Olivos Temple",
-    "lat": "-12.01991",
-    "lng": "-77.05384",
+    "lat": "",
+    "lng": "",
     "year": 2024,
     "country": "Peru"
   },
@@ -1274,22 +1247,22 @@ const templeData = [
   },
   {
     "name": "London England Temple",
-    "lat": "51.16257",
-    "lng": "-0.05218",
+    "lat": "",
+    "lng": "",
     "year": 1958,
     "country": "England"
   },
   {
     "name": "Londrina Brazil Temple",
-    "lat": "-23.34424",
-    "lng": "-51.16014",
+    "lat": "",
+    "lng": "",
     "year": null,
     "country": "Brazil"
   },
   {
     "name": "Lone Mountain Nevada Temple",
-    "lat": "36.23627",
-    "lng": "-115.30413",
+    "lat": "",
+    "lng": "",
     "year": null,
     "country": "United States"
   },
@@ -1323,29 +1296,29 @@ const templeData = [
   },
   {
     "name": "Lubumbashi Democratic Republic of the Congo Temple",
-    "lat": "-11.648966516670264",
-    "lng": "27.46839647305366",
+    "lat": "",
+    "lng": "",
     "year": null,
     "country": "Democratic Republic of the Congo"
   },
   {
     "name": "Maceió Brazil Temple",
-    "lat": "-9.603335669390283",
-    "lng": "-35.74354601844527",
+    "lat": "",
+    "lng": "",
     "year": null,
     "country": "Brazil"
   },
   {
     "name": "Madrid Spain Temple",
-    "lat": "40.400329247783716",
-    "lng": "-3.6310514398629716",
+    "lat": "",
+    "lng": "",
     "year": 1999,
     "country": "Spain"
   },
   {
     "name": "Managua Nicaragua Temple",
-    "lat": "12.09082247136233",
-    "lng": "-86.23300187662544",
+    "lat": "",
+    "lng": "",
     "year": null,
     "country": "Nicaragua"
   },
@@ -1358,8 +1331,8 @@ const templeData = [
   },
   {
     "name": "Manhattan New York Temple",
-    "lat": "40.773586637014766",
-    "lng": "-73.98181864953887",
+    "lat": "",
+    "lng": "",
     "year": null,
     "country": "United States"
   },
@@ -1435,8 +1408,8 @@ const templeData = [
   },
   {
     "name": "Mendoza Argentina Temple",
-    "lat": "-32.863628245622635",
-    "lng": "-68.88186227848448",
+    "lat": "",
+    "lng": "",
     "year": 2024,
     "country": "Argentina"
   },
@@ -1463,8 +1436,8 @@ const templeData = [
   },
   {
     "name": "Mexico City Benemérito Mexico Temple",
-    "lat": "19.535294346755546",
-    "lng": "-99.15140643799214",
+    "lat": "",
+    "lng": "",
     "year": null,
     "country": "Mexico"
   },
@@ -1491,29 +1464,29 @@ const templeData = [
   },
   {
     "name": "Miraflores Guatemala City Guatemala Temple",
-    "lat": "14.60738754112757",
-    "lng": "-90.5445524403132",
+    "lat": "",
+    "lng": "",
     "year": null,
     "country": "Guatemala"
   },
   {
     "name": "Missoula Montana Temple",
-    "lat": "46.819340755510126",
-    "lng": "-114.06651830361196",
+    "lat": "",
+    "lng": "",
     "year": null,
     "country": "United States"
   },
   {
     "name": "Modesto California Temple",
-    "lat": "37.7032604723852",
-    "lng": "-121.0472432533504",
+    "lat": "",
+    "lng": "",
     "year": null,
     "country": "United States"
   },
   {
     "name": "Monrovia Liberia Temple",
-    "lat": "6.278996995833849",
-    "lng": "-10.75934649103483",
+    "lat": "",
+    "lng": "",
     "year": null,
     "country": "Liberia"
   },
@@ -1526,8 +1499,8 @@ const templeData = [
   },
   {
     "name": "Montevideo Uruguay Temple",
-    "lat": "-34.88819408861207",
-    "lng": "-56.073570376647446",
+    "lat": "",
+    "lng": "",
     "year": 2001,
     "country": "Uruguay"
   },
@@ -1575,8 +1548,8 @@ const templeData = [
   },
   {
     "name": "Nairobi Kenya Temple",
-    "lat": "-1.2651768267642551",
-    "lng": "36.73925899921133",
+    "lat": "",
+    "lng": "",
     "year": 2025,
     "country": "Kenya"
   },
@@ -1589,8 +1562,8 @@ const templeData = [
   },
   {
     "name": "Natal Brazil Temple",
-    "lat": "-1.2652191397442458",
-    "lng": "36.739831943393554",
+    "lat": "",
+    "lng": "",
     "year": null,
     "country": "Brazil"
   },
@@ -1603,8 +1576,8 @@ const templeData = [
   },
   {
     "name": "Neiafu Tonga Temple",
-    "lat": "-18.644243323225403",
-    "lng": "-173.97730069693594",
+    "lat": "",
+    "lng": "",
     "year": null,
     "country": "Tonga"
   },
@@ -1631,8 +1604,8 @@ const templeData = [
   },
   {
     "name": "Nuku'alofa Tonga Temple",
-    "lat": "-21.16268813429761",
-    "lng": "-175.27165446129223",
+    "lat": "",
+    "lng": "",
     "year": 1983,
     "country": "Tonga"
   },
@@ -1666,8 +1639,8 @@ const templeData = [
   },
   {
     "name": "Oklahoma City Oklahoma Temple",
-    "lat": "35.59208422767853",
-    "lng": "-97.72590865943434",
+    "lat": "",
+    "lng": "",
     "year": 2000,
     "country": "United States"
   },
@@ -1687,9 +1660,9 @@ const templeData = [
   },
   {
     "name": "Orlando Florida Temple",
-    "lat": "28.507452480261758",
-    "lng": "-81.50902550776429",
-    "year": 1994,
+    "lat": "",
+    "lng": "",
+    "year": null,
     "country": "United States"
   },
   {
@@ -1701,8 +1674,8 @@ const templeData = [
   },
   {
     "name": "Oslo Norway Temple",
-    "lat": "59.85792721763578",
-    "lng": "10.480085100094389",
+    "lat": "",
+    "lng": "",
     "year": null,
     "country": "Norway"
   },
@@ -1715,8 +1688,8 @@ const templeData = [
   },
   {
     "name": "Pago Pago American Samoa Temple",
-    "lat": "-14.333852020683697",
-    "lng": "-170.7315393706279",
+    "lat": "",
+    "lng": "",
     "year": null,
     "country": "American Samoa"
   },
@@ -1729,22 +1702,22 @@ const templeData = [
   },
   {
     "name": "Panama City Panama Temple",
-    "lat": "8.992038026083009",
-    "lng": "-79.5695971999126",
+    "lat": "",
+    "lng": "",
     "year": 2008,
     "country": "Panama"
   },
   {
     "name": "Papeete Tahiti Temple",
-    "lat": "-17.53622726171924",
-    "lng": "-149.55507818087196",
+    "lat": "",
+    "lng": "",
     "year": 1983,
     "country": "French Polynesia"
   },
   {
     "name": "Paris France Temple",
-    "lat": "48.81837643363375",
-    "lng": "2.124221636335069",
+    "lat": "",
+    "lng": "",
     "year": 2017,
     "country": "France"
   },
@@ -1806,15 +1779,15 @@ const templeData = [
   },
   {
     "name": "Port Moresby Papua New Guinea Temple",
-    "lat": "-9.476795225429848",
-    "lng": "147.1775399461113",
+    "lat": "",
+    "lng": "",
     "year": null,
     "country": "Papua New Guinea"
   },
   {
     "name": "Port Vila Vanuatu Temple",
-    "lat": "-17.703434050257442",
-    "lng": "168.30445702946716",
+    "lat": "",
+    "lng": "",
     "year": null,
     "country": "Vanuatu"
   },
@@ -1862,8 +1835,8 @@ const templeData = [
   },
   {
     "name": "Price Utah Temple",
-    "lat": "",
-    "lng": "",
+    "lat": 40.7690939,
+    "lng": -111.891658,
     "year": null,
     "country": "United States"
   },
@@ -1904,15 +1877,15 @@ const templeData = [
   },
   {
     "name": "Querétaro Mexico Temple",
-    "lat": "20.613610669465736",
-    "lng": "-100.4098197226599",
+    "lat": "",
+    "lng": "",
     "year": null,
     "country": "Mexico"
   },
   {
     "name": "Quetzaltenango Guatemala Temple",
-    "lat": "14.847124086134352",
-    "lng": "-91.54211603800265",
+    "lat": "",
+    "lng": "",
     "year": 2011,
     "country": "Guatemala"
   },
@@ -1939,8 +1912,8 @@ const templeData = [
   },
   {
     "name": "Recife Brazil Temple",
-    "lat": "-8.036221183080668",
-    "lng": "-34.91018615573585",
+    "lat": "",
+    "lng": "",
     "year": 2000,
     "country": "Brazil"
   },
@@ -1974,8 +1947,8 @@ const templeData = [
   },
   {
     "name": "Retalhuleu Guatemala Temple",
-    "lat": "14.554162598879433",
-    "lng": "-91.65490474169057",
+    "lat": "",
+    "lng": "",
     "year": null,
     "country": "Guatemala"
   },
@@ -1995,8 +1968,8 @@ const templeData = [
   },
   {
     "name": "Ribeirão Preto Brazil Temple",
-    "lat": "-21.21598548586108",
-    "lng": "-47.80932450547363",
+    "lat": "",
+    "lng": "",
     "year": null,
     "country": "Brazil"
   },
@@ -2060,7 +2033,7 @@ const templeData = [
     "name": "Salt Lake Temple",
     "lat": 40.7704367,
     "lng": -111.8919131,
-    "year": 1893,
+    "year": null,
     "country": "United States"
   },
   {
@@ -2088,13 +2061,13 @@ const templeData = [
     "name": "San Diego California Temple",
     "lat": 32.8663961,
     "lng": -117.2287003,
-    "year": 1993,
+    "year": null,
     "country": "United States"
   },
   {
     "name": "San Jose California Temple",
-    "lat": "37.35309420545954",
-    "lng": "-122.04332195944554",
+    "lat": "",
+    "lng": "",
     "year": null,
     "country": "United States"
   },
@@ -2121,8 +2094,8 @@ const templeData = [
   },
   {
     "name": "San Luis Potosí Mexico Temple",
-    "lat": "22.153285589023508",
-    "lng": "-101.01501913985858",
+    "lat": "",
+    "lng": "",
     "year": null,
     "country": "Mexico"
   },
@@ -2156,8 +2129,8 @@ const templeData = [
   },
   {
     "name": "Santiago Chile Temple",
-    "lat": "-33.43598586294198",
-    "lng": "-70.60887038872536",
+    "lat": "",
+    "lng": "",
     "year": 1983,
     "country": "Chile"
   },
@@ -2177,22 +2150,22 @@ const templeData = [
   },
   {
     "name": "Santiago West Chile Temple",
-    "lat": "-33.49282211594212",
-    "lng": "-70.73611585704889",
+    "lat": "",
+    "lng": "",
     "year": null,
     "country": "Chile"
   },
   {
     "name": "Santo Domingo Dominican Republic Temple",
-    "lat": "18.466737063202615",
-    "lng": "-69.91622239991726",
+    "lat": "",
+    "lng": "",
     "year": 2000,
     "country": "Dominican Republic"
   },
   {
     "name": "Santos Brazil Temple",
-    "lat": "-23.942728834692502",
-    "lng": "-46.333797646636846",
+    "lat": "",
+    "lng": "",
     "year": null,
     "country": "Brazil"
   },
@@ -2205,8 +2178,8 @@ const templeData = [
   },
   {
     "name": "São Paulo East Brazil Temple",
-    "lat": "-23.555453151701716",
-    "lng": "-46.54427389360217",
+    "lat": "",
+    "lng": "",
     "year": null,
     "country": "Brazil"
   },
@@ -2226,8 +2199,8 @@ const templeData = [
   },
   {
     "name": "Savai'i Samoa Temple",
-    "lat": "-13.751802933920885",
-    "lng": "-172.23104917106804",
+    "lat": "",
+    "lng": "",
     "year": null,
     "country": "Samoa"
   },
@@ -2254,8 +2227,8 @@ const templeData = [
   },
   {
     "name": "Singapore Temple",
-    "lat": 1.280175712404137,
-    "lng": 103.78515168343058,
+    "lat": 1.3325446,
+    "lng": 103.8991637,
     "year": null,
     "country": "Singapore"
   },
@@ -2289,8 +2262,8 @@ const templeData = [
   },
   {
     "name": "Springfield Missouri Temple",
-    "lat": "37.10225998721938",
-    "lng": "-93.24282165151074",
+    "lat": "",
+    "lng": "",
     "year": null,
     "country": "United States"
   },
@@ -2324,9 +2297,9 @@ const templeData = [
   },
   {
     "name": "Stockholm Sweden Temple",
-    "lat": "59.12496822958754",
-    "lng": "18.109469671784776",
-    "year": 1984,
+    "lat": "",
+    "lng": "",
+    "year": null,
     "country": "Sweden"
   },
   {
@@ -2359,15 +2332,15 @@ const templeData = [
   },
   {
     "name": "Tacloban City Philippines Temple",
-    "lat": "11.223854574563946",
-    "lng": "124.98478471411943",
+    "lat": "",
+    "lng": "",
     "year": null,
     "country": "Philippines"
   },
   {
     "name": "Tacoma Washington Temple",
-    "lat": "47.27498252123171",
-    "lng": "-122.31432254730511",
+    "lat": "",
+    "lng": "",
     "year": null,
     "country": "United States"
   },
@@ -2394,15 +2367,15 @@ const templeData = [
   },
   {
     "name": "Tampico Mexico Temple",
-    "lat": "22.254441310874775",
-    "lng": "-97.855598682914",
+    "lat": "",
+    "lng": "",
     "year": 2000,
     "country": "Mexico"
   },
   {
     "name": "Tarawa Kiribati Temple",
-    "lat": "1.3496683852397777",
-    "lng": "173.04036570691147",
+    "lat": "",
+    "lng": "",
     "year": null,
     "country": "Kiribati"
   },
@@ -2415,15 +2388,15 @@ const templeData = [
   },
   {
     "name": "Tegucigalpa Honduras Temple",
-    "lat": "14.052600866872307",
-    "lng": "-87.23726622081435",
+    "lat": "",
+    "lng": "",
     "year": 2013,
     "country": "Honduras"
   },
   {
     "name": "Teresina Brazil Temple",
-    "lat": "-5.087978304560994",
-    "lng": "-42.77932630732141",
+    "lat": "",
+    "lng": "",
     "year": null,
     "country": "Brazil"
   },
@@ -2443,15 +2416,15 @@ const templeData = [
   },
   {
     "name": "The Hague Netherlands Temple",
-    "lat": "52.05464556588202",
-    "lng": "4.503430604320177",
+    "lat": "",
+    "lng": "",
     "year": 2002,
     "country": "Netherlands"
   },
   {
     "name": "Tijuana Mexico Temple",
-    "lat": "32.48882442328363",
-    "lng": "-116.92869119197763",
+    "lat": "",
+    "lng": "",
     "year": 2015,
     "country": "Mexico"
   },
@@ -2464,8 +2437,8 @@ const templeData = [
   },
   {
     "name": "Toluca Mexico Temple",
-    "lat": "19.252498783299746",
-    "lng": "-99.62633516499596",
+    "lat": "",
+    "lng": "",
     "year": null,
     "country": "Mexico"
   },
@@ -2478,29 +2451,29 @@ const templeData = [
   },
   {
     "name": "Torreón Mexico Temple",
-    "lat": "25.553296475477143",
-    "lng": "-103.49891603527786",
+    "lat": "",
+    "lng": "",
     "year": null,
     "country": "Mexico"
   },
   {
     "name": "Trujillo Peru Temple",
-    "lat": "-8.09978567481594",
-    "lng": "-79.0578475324452",
+    "lat": "",
+    "lng": "",
     "year": 2015,
     "country": "Peru"
   },
   {
     "name": "Tucson Arizona Temple",
-    "lat": "32.3382019701543",
-    "lng": "-110.94857478588798",
+    "lat": "",
+    "lng": "",
     "year": 2017,
     "country": "United States"
   },
   {
     "name": "Tuguegarao City Philippines Temple",
-    "lat": "17.65021105897344",
-    "lng": "121.75207239084482",
+    "lat": "",
+    "lng": "",
     "year": null,
     "country": "Philippines"
   },
@@ -2513,8 +2486,8 @@ const templeData = [
   },
   {
     "name": "Tulsa Oklahoma Temple",
-    "lat": "36.09195625634446",
-    "lng": "-95.82522958446047",
+    "lat": "",
+    "lng": "",
     "year": null,
     "country": "United States"
   },
@@ -2541,15 +2514,15 @@ const templeData = [
   },
   {
     "name": "Urdaneta Philippines Temple",
-    "lat": "15.938681853079702",
-    "lng": "120.58244829084086",
+    "lat": "",
+    "lng": "",
     "year": 2024,
     "country": "Philippines"
   },
   {
     "name": "Uturoa French Polynesia Temple",
-    "lat": "-16.736094326037694",
-    "lng": "-151.4406951452034",
+    "lat": "",
+    "lng": "",
     "year": null,
     "country": "French Polynesia"
   },
@@ -2569,8 +2542,8 @@ const templeData = [
   },
   {
     "name": "Vancouver Washington Temple",
-    "lat": "45.60749315880962",
-    "lng": "-122.46906837847988",
+    "lat": "",
+    "lng": "",
     "year": null,
     "country": "United States"
   },
@@ -2597,8 +2570,8 @@ const templeData = [
   },
   {
     "name": "Vienna Austria Temple",
-    "lat": "48.243026277153334",
-    "lng": "16.349554803863466",
+    "lat": "",
+    "lng": "",
     "year": null,
     "country": "Austria"
   },
@@ -2611,15 +2584,15 @@ const templeData = [
   },
   {
     "name": "Viña del Mar Chile Temple",
-    "lat": "-33.02007721155108",
-    "lng": "-71.54466659323272",
+    "lat": "",
+    "lng": "",
     "year": null,
     "country": "Chile"
   },
   {
     "name": "Vitória Brazil Temple",
-    "lat": "-20.296476177757924",
-    "lng": "-40.30399574778942",
+    "lat": "",
+    "lng": "",
     "year": null,
     "country": "Brazil"
   },
@@ -2632,22 +2605,22 @@ const templeData = [
   },
   {
     "name": "Wellington New Zealand Temple",
-    "lat": "-41.120048177684666",
-    "lng": "174.88035592297402",
+    "lat": "",
+    "lng": "",
     "year": null,
     "country": "New Zealand"
   },
   {
     "name": "West Jordan Utah Temple",
-    "lat": "40.622842442642536",
-    "lng": "-112.06574589816796",
+    "lat": "",
+    "lng": "",
     "year": null,
     "country": "United States"
   },
   {
     "name": "Wichita Kansas Temple",
-    "lat": "37.77597922236015",
-    "lng": "-97.37269318642497",
+    "lat": "",
+    "lng": "",
     "year": null,
     "country": "United States"
   },
@@ -2660,8 +2633,8 @@ const templeData = [
   },
   {
     "name": "Winchester Virginia Temple",
-    "lat": "39.18829019608052",
-    "lng": "-78.1917340956686",
+    "lat": "",
+    "lng": "",
     "year": null,
     "country": "United States"
   },
@@ -2688,8 +2661,8 @@ const templeData = [
   },
   {
     "name": "Yorba Linda California Temple",
-    "lat": "33.89896516145163",
-    "lng": "-117.83486732026483",
+    "lat": "",
+    "lng": "",
     "year": null,
     "country": "United States"
   },
@@ -2700,612 +2673,4 @@ const templeData = [
     "year": null,
     "country": "United States"
   }
-
-];
-
-// Initialize the application
-document.addEventListener('DOMContentLoaded', function() {
-    initializeMap();
-    initializeTimeline();
-    
-    // Load temples from embedded data
-    loadTemplesFromEmbeddedData();
-    
-    // Initialize toggle for undedicated temples
-    initializeUndedicatedToggle();
-    
-    // Initialize incomplete temples table
-    updateIncompleteTemplesTable();
-    
-    // Initialize filter listeners
-    initializeFilterListeners();
-});
-
-// Initialize the map
-function initializeMap() {
-    map = L.map('map').setView([20, 0], 2);
-    
-    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-        attribution: '© OpenStreetMap contributors'
-    }).addTo(map);
-    
-    // Set map boundaries to prevent infinite scrolling
-    const southWest = L.latLng(-90, -180);
-    const northEast = L.latLng(90, 180);
-    const bounds = L.latLngBounds(southWest, northEast);
-    map.setMaxBounds(bounds);
-    map.setMinZoom(1);
-    map.setMaxZoom(18);
-    
-    // Map is now ready for temple markers
-}
-
-// Initialize timeline controls
-function initializeTimeline() {
-    const timeline = document.getElementById('timeline');
-    const playBtn = document.getElementById('play-btn');
-    const resetBtn = document.getElementById('reset-btn');
-    
-    // Create detailed tick marks
-    createTimelineTicks();
-    
-    // Set initial slider value
-    timeline.value = currentYear;
-    
-    timeline.addEventListener('input', function() {
-        currentYear = parseInt(this.value);
-        console.log('Timeline changed to year:', currentYear);
-        updateTimelineVisuals();
-        updateDisplay();
-    });
-    
-    // Also listen for 'change' event to ensure synchronization
-    timeline.addEventListener('change', function() {
-        currentYear = parseInt(this.value);
-        console.log('Timeline changed to year (change event):', currentYear);
-        updateTimelineVisuals();
-        updateDisplay();
-    });
-    
-    playBtn.addEventListener('click', togglePlay);
-    resetBtn.addEventListener('click', resetTimeline);
-    
-    // Initialize timeline visuals
-    updateTimelineVisuals();
-}
-
-// Create detailed tick marks for the timeline
-function createTimelineTicks() {
-    const ticksContainer = document.querySelector('.timeline-ticks');
-    const minYear = 1836;
-    const maxYear = 2025;
-    
-    // Clear existing ticks
-    ticksContainer.innerHTML = '';
-    
-    // Create ticks for each year
-    for (let year = minYear; year <= maxYear; year++) {
-        const tick = document.createElement('div');
-        tick.className = 'tick';
-        tick.dataset.year = year;
-        
-        // Calculate position based on year
-        const progress = (year - minYear) / (maxYear - minYear);
-        tick.style.left = (progress * 100) + '%';
-        
-        // Make major years (every 25 years) more prominent
-        if (year % 25 === 0 || year === minYear || year === maxYear) {
-            tick.classList.add('major');
-        }
-        
-        ticksContainer.appendChild(tick);
-    }
-}
-
-// Update timeline visual elements
-function updateTimelineVisuals() {
-    const timeline = document.getElementById('timeline');
-    const fill = document.querySelector('.timeline-fill');
-    const marker = document.querySelector('.timeline-marker');
-    const ticks = document.querySelectorAll('.timeline-ticks .tick');
-    const labels = document.querySelectorAll('.timeline-labels .label-major');
-    
-    const minYear = 1836;
-    const maxYear = 2025;
-    const range = maxYear - minYear;
-    const progress = (currentYear - minYear) / range;
-    
-    // Update fill width
-    fill.style.width = (progress * 100) + '%';
-    
-    // Update marker position
-    marker.style.left = (progress * 100) + '%';
-    
-    // Update tick states
-    ticks.forEach(tick => {
-        const tickYear = parseInt(tick.dataset.year);
-        tick.classList.toggle('active', tickYear <= currentYear);
-    });
-    
-    // Update label states
-    labels.forEach(label => {
-        const labelYear = parseInt(label.textContent);
-        label.classList.toggle('active', labelYear <= currentYear);
-    });
-}
-
-// Load temple data from embedded data
-function loadTemplesFromEmbeddedData() {
-    temples = templeData;
-    console.log('Loaded temples from embedded data:', temples);
-    localStorage.setItem('temples', JSON.stringify(temples));
-    updateDisplay();
-}
-
-// Initialize toggle for undedicated temples
-function initializeUndedicatedToggle() {
-    const toggle = document.getElementById('show-undedicated');
-    
-    if (!toggle) {
-        console.error('Toggle element not found!');
-        return;
-    }
-    
-    console.log('Initializing toggle, current state:', showUndedicated);
-    
-    toggle.addEventListener('change', function() {
-        showUndedicated = this.checked;
-        console.log('Toggle changed! Show undedicated temples:', showUndedicated);
-        
-        // Update toggle text to show current state
-        const toggleText = document.querySelector('.toggle-text');
-        if (toggleText) {
-            toggleText.textContent = showUndedicated ? 'Hide Undedicated Temples' : 'Show Undedicated Temples (at 2025)';
-        }
-        
-        updateDisplay();
-    });
-    
-    // Set initial state
-    toggle.checked = showUndedicated;
-    
-    // Set initial text
-    const toggleText = document.querySelector('.toggle-text');
-    if (toggleText) {
-        toggleText.textContent = showUndedicated ? 'Hide Undedicated Temples' : 'Show Undedicated Temples (at 2025)';
-    }
-}
-
-// Update the display based on current year
-function updateDisplay() {
-    // Check if map is initialized
-    if (!map) {
-        console.log('Map not initialized yet, retrying in 100ms');
-        setTimeout(updateDisplay, 100);
-        return;
-    }
-    
-    // Ensure slider and currentYear are synchronized
-    const timeline = document.getElementById('timeline');
-    if (timeline.value != currentYear) {
-        timeline.value = currentYear;
-    }
-    
-    // Update timeline visuals
-    updateTimelineVisuals();
-    
-    // Update timeline display
-    document.getElementById('current-year').textContent = currentYear;
-    
-    // Clear existing markers
-    markers.forEach(marker => map.removeLayer(marker));
-    markers = [];
-    
-    // Filter temples based on current year and toggle state
-    let visibleTemples;
-    console.log('DEBUG: currentYear =', currentYear, 'showUndedicated =', showUndedicated);
-    
-    // Always show dedicated temples up to current year
-    visibleTemples = temples.filter(temple => temple.year !== null && temple.year <= currentYear);
-    
-    // Only add undedicated temples if toggle is ON AND we're at 2025 or later
-    if (showUndedicated && currentYear >= 2025) {
-        const undedicatedTemples = temples.filter(temple => temple.year === null);
-        visibleTemples = visibleTemples.concat(undedicatedTemples);
-        console.log('Adding', undedicatedTemples.length, 'undedicated temples at year', currentYear);
-    } else {
-        console.log('Not showing undedicated temples - toggle:', showUndedicated, 'year:', currentYear);
-    }
-    
-    // Debug: Show breakdown of temples by year
-    const templesByYear = {};
-    visibleTemples.forEach(t => {
-        const year = t.year === null ? 'null' : t.year;
-        templesByYear[year] = (templesByYear[year] || 0) + 1;
-    });
-    console.log('Temples by year before coordinate filtering:', templesByYear);
-    
-    // Filter out temples without valid coordinates
-    visibleTemples = visibleTemples.filter(temple => {
-        // Clean the coordinates by removing any non-numeric characters except decimal points and minus signs
-        const cleanLat = String(temple.lat).replace(/[^\d.-]/g, '');
-        const cleanLng = String(temple.lng).replace(/[^\d.-]/g, '');
-        
-        const hasValidCoords = temple.lat && temple.lng && 
-                              temple.lat !== "" && temple.lng !== "" && 
-                              !isNaN(parseFloat(cleanLat)) && !isNaN(parseFloat(cleanLng)) &&
-                              parseFloat(cleanLat) >= -90 && parseFloat(cleanLat) <= 90 &&
-                              parseFloat(cleanLng) >= -180 && parseFloat(cleanLng) <= 180;
-        
-        if (!hasValidCoords && temple.lat && temple.lng) {
-            console.warn('Invalid coordinates for temple:', temple.name, 'lat:', temple.lat, 'lng:', temple.lng);
-        }
-        
-        return hasValidCoords;
-    });
-    
-    console.log('Current year:', currentYear, 'Show undedicated:', showUndedicated, 'Visible temples:', visibleTemples.length);
-    console.log('Total temples:', temples.length, 'Temples with null year:', temples.filter(t => t.year === null).length);
-    
-    visibleTemples.forEach(temple => {
-        // Clean the coordinates by removing any non-numeric characters except decimal points and minus signs
-        const cleanLat = String(temple.lat).replace(/[^\d.-]/g, '');
-        const cleanLng = String(temple.lng).replace(/[^\d.-]/g, '');
-        
-        console.log('Adding marker for:', temple.name, 'at', cleanLat, cleanLng, 'year:', temple.year);
-        
-        // Create a simple marker first to test
-        const marker = L.marker([parseFloat(cleanLat), parseFloat(cleanLng)]).addTo(map);
-        
-        const popupContent = `
-            <div class="temple-popup">
-                <h3>${temple.name}</h3>
-                <p><strong>Country:</strong> ${temple.country}</p>
-                <p><strong>Dedicated:</strong> <span class="year">${temple.year === null ? 'Not yet dedicated' : temple.year}</span></p>
-                ${temple.description ? `<p>${temple.description}</p>` : ''}
-            </div>
-        `;
-        
-        marker.bindPopup(popupContent);
-        markers.push(marker);
-    });
-    
-    // Update temple count
-    const count = visibleTemples.length;
-    const undedicatedCount = temples.filter(t => t.year === null && 
-        t.lat && t.lng && t.lat !== "" && t.lng !== "" && 
-        !isNaN(parseFloat(t.lat)) && !isNaN(parseFloat(t.lng))).length;
-    
-    let countText = count === 1 ? '1 Temple' : `${count} Temples`;
-    if (showUndedicated && currentYear >= 2025 && undedicatedCount > 0) {
-        countText += ` (${undedicatedCount} undedicated)`;
-    }
-    
-    document.getElementById('temple-count').textContent = countText;
-    
-    // Update incomplete temples table
-    updateIncompleteTemplesTable();
-    
-    // Note: Timeline slider is updated separately to avoid conflicts
-}
-
-// Create custom icon for temple markers
-function createTempleIcon(year) {
-    const iconSize = 25;
-    const iconAnchor = [iconSize / 2, iconSize / 2];
-    
-    // Simple colors based on decade
-    let color = '#666666'; // Default gray
-    if (year < 1900) color = '#333333'; // Dark gray for 1800s
-    else if (year < 1950) color = '#666666'; // Medium gray for early 1900s
-    else if (year < 2000) color = '#999999'; // Light gray for mid-century
-    else color = '#cccccc'; // Very light gray for modern era
-    
-    return L.divIcon({
-        className: 'temple-marker',
-        html: `<div style="
-            width: ${iconSize}px; 
-            height: ${iconSize}px; 
-            background: ${color}; 
-            border: 2px solid white; 
-            border-radius: 50%; 
-            box-shadow: 0 1px 3px rgba(0,0,0,0.2);
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            color: white;
-            font-weight: bold;
-            font-size: 10px;
-        ">⛪</div>`,
-        iconSize: [iconSize, iconSize],
-        iconAnchor: iconAnchor
-    });
-}
-
-// Toggle play/pause timeline
-function togglePlay() {
-    const playBtn = document.getElementById('play-btn');
-    
-    if (isPlaying) {
-        // Stop playing
-        clearInterval(playInterval);
-        isPlaying = false;
-        playBtn.textContent = 'Play Timeline';
-    } else {
-        // Start playing
-        isPlaying = true;
-        playBtn.textContent = 'Pause Timeline';
-        
-        playInterval = setInterval(() => {
-            currentYear++;
-            if (currentYear > 2025) {
-                // Stop at 2025 instead of resetting
-                currentYear = 2025;
-                clearInterval(playInterval);
-                isPlaying = false;
-                playBtn.textContent = 'Play Timeline';
-            }
-            updateDisplay();
-        }, 1000); // Update every second
-    }
-}
-
-// Reset timeline to beginning
-function resetTimeline() {
-    currentYear = 1836;
-    updateDisplay();
-    
-    if (isPlaying) {
-        togglePlay();
-    }
-}
-
-// Load temples from localStorage on page load
-function loadTemplesFromStorage() {
-    const stored = localStorage.getItem('temples');
-    if (stored) {
-        temples = JSON.parse(stored);
-        console.log('Loaded temples from localStorage:', temples);
-        updateDisplay();
-    } else {
-        // If no stored data, load from JSON file as fallback
-        loadTemplesFromFile();
-    }
-}
-
-// Save temples to localStorage
-function saveTemplesToStorage() {
-    localStorage.setItem('temples', JSON.stringify(temples));
-}
-
-// Add keyboard shortcuts
-document.addEventListener('keydown', function(e) {
-    switch(e.key) {
-        case ' ':
-            e.preventDefault();
-            togglePlay();
-            break;
-        case 'ArrowLeft':
-            e.preventDefault();
-            currentYear = Math.max(1836, currentYear - 1);
-            updateDisplay();
-            break;
-        case 'ArrowRight':
-            e.preventDefault();
-            currentYear = Math.min(2025, currentYear + 1);
-            updateDisplay();
-            break;
-        case 'Home':
-            e.preventDefault();
-            resetTimeline();
-            break;
-    }
-});
-
-// Update incomplete temples table
-function updateIncompleteTemplesTable() {
-    const tableBody = document.getElementById('incomplete-temples-body');
-    if (!tableBody) return;
-    
-    // Find temples with missing information
-    const incompleteTemples = temples.filter(temple => {
-        const hasValidCoords = temple.lat && temple.lng && 
-                              temple.lat !== "" && temple.lng !== "" && 
-                              !isNaN(parseFloat(temple.lat)) && !isNaN(parseFloat(temple.lng)) &&
-                              parseFloat(temple.lat) >= -90 && parseFloat(temple.lat) <= 90 &&
-                              parseFloat(temple.lng) >= -180 && parseFloat(temple.lng) <= 180;
-        
-        const hasYear = temple.year !== null && temple.year !== undefined;
-        
-        return !hasValidCoords || !hasYear;
-    });
-    
-    // Only populate country filter if it's empty (first time) or if we're explicitly updating filters
-    const countryFilter = document.getElementById('country-filter');
-    if (countryFilter && countryFilter.options.length <= 1) {
-        populateCountryFilter(incompleteTemples);
-    }
-    
-    // Apply filters and display results
-    displayFilteredIncompleteTemples(incompleteTemples);
-}
-
-// Populate country filter dropdown
-function populateCountryFilter(incompleteTemples) {
-    const countryFilter = document.getElementById('country-filter');
-    if (!countryFilter) return;
-    
-    // Get unique countries from incomplete temples
-    const countries = [...new Set(incompleteTemples.map(temple => temple.country).filter(country => country))].sort();
-    
-    // Only populate if the filter is empty or has only the default option
-    if (countryFilter.options.length <= 1) {
-        // Clear existing options except the first one
-        countryFilter.innerHTML = '<option value="">All Countries</option>';
-        
-        // Add country options
-        countries.forEach(country => {
-            const option = document.createElement('option');
-            option.value = country;
-            option.textContent = country;
-            countryFilter.appendChild(option);
-        });
-    }
-}
-
-// Display filtered incomplete temples
-function displayFilteredIncompleteTemples(incompleteTemples) {
-    const tableBody = document.getElementById('incomplete-temples-body');
-    const countryFilter = document.getElementById('country-filter');
-    const typeFilter = document.getElementById('type-filter');
-    
-    if (!tableBody) return;
-    
-    // Get filter values
-    const selectedCountry = countryFilter ? countryFilter.value : '';
-    const selectedType = typeFilter ? typeFilter.value : '';
-    
-    console.log('Filtering temples - Country:', selectedCountry, 'Type:', selectedType, 'Total incomplete:', incompleteTemples.length);
-    
-    // Apply filters
-    let filteredTemples = incompleteTemples;
-    
-    // Filter by country
-    if (selectedCountry) {
-        filteredTemples = filteredTemples.filter(temple => temple.country === selectedCountry);
-        console.log('After country filter:', filteredTemples.length, 'temples');
-    }
-    
-    // Filter by missing information type
-    if (selectedType) {
-        filteredTemples = filteredTemples.filter(temple => {
-            const hasValidCoords = temple.lat && temple.lng && 
-                                  temple.lat !== "" && temple.lng !== "" && 
-                                  !isNaN(parseFloat(temple.lat)) && !isNaN(parseFloat(temple.lng)) &&
-                                  parseFloat(temple.lat) >= -90 && parseFloat(temple.lat) <= 90 &&
-                                  parseFloat(temple.lng) >= -180 && parseFloat(temple.lng) <= 180;
-            
-            const hasYear = temple.year !== null && temple.year !== undefined;
-            
-            if (selectedType === 'location') {
-                return !hasValidCoords && hasYear;
-            } else if (selectedType === 'year') {
-                return hasValidCoords && !hasYear;
-            } else if (selectedType === 'both') {
-                return !hasValidCoords && !hasYear;
-            }
-            return false;
-        });
-    }
-    
-    // Update results count display
-    const filteredCountElement = document.getElementById('filtered-count');
-    if (filteredCountElement) {
-        const totalIncomplete = incompleteTemples.length;
-        if (selectedCountry || selectedType) {
-            filteredCountElement.textContent = `Showing ${filteredTemples.length} of ${totalIncomplete} incomplete temples`;
-        } else {
-            filteredCountElement.textContent = `Showing all ${totalIncomplete} incomplete temples`;
-        }
-    }
-    
-    // Clear existing table content
-    tableBody.innerHTML = '';
-    
-    if (filteredTemples.length === 0) {
-        const row = tableBody.insertRow();
-        const cell = row.insertCell();
-        cell.colSpan = 3;
-        cell.textContent = selectedCountry || selectedType ? 
-            'No temples match the selected filters.' : 
-            'All temples have complete information!';
-        cell.style.textAlign = 'center';
-        cell.style.fontStyle = 'italic';
-        cell.style.color = '#666666';
-        cell.style.padding = '20px';
-        return;
-    }
-    
-    // Sort temples by name
-    filteredTemples.sort((a, b) => a.name.localeCompare(b.name));
-    
-    // Populate table
-    filteredTemples.forEach(temple => {
-        const row = tableBody.insertRow();
-        
-        // Temple name
-        const nameCell = row.insertCell();
-        nameCell.textContent = temple.name;
-        
-        // Country
-        const countryCell = row.insertCell();
-        countryCell.textContent = temple.country || 'Unknown';
-        
-        // Missing information
-        const missingCell = row.insertCell();
-        const hasValidCoords = temple.lat && temple.lng && 
-                              temple.lat !== "" && temple.lng !== "" && 
-                              !isNaN(parseFloat(temple.lat)) && !isNaN(parseFloat(temple.lng)) &&
-                              parseFloat(temple.lat) >= -90 && parseFloat(temple.lat) <= 90 &&
-                              parseFloat(temple.lng) >= -180 && parseFloat(temple.lng) <= 180;
-        
-        const hasYear = temple.year !== null && temple.year !== undefined;
-        
-        let missingInfo = [];
-        let missingClass = '';
-        
-        if (!hasValidCoords) {
-            missingInfo.push('Location');
-        }
-        if (!hasYear) {
-            missingInfo.push('Dedication Year');
-        }
-        
-        if (missingInfo.length === 2) {
-            missingClass = 'both';
-        } else if (missingInfo.includes('Location')) {
-            missingClass = 'location';
-        } else {
-            missingClass = 'year';
-        }
-        
-        const missingSpan = document.createElement('span');
-        missingSpan.className = `missing-info ${missingClass}`;
-        missingSpan.textContent = missingInfo.join(' & ');
-        missingCell.appendChild(missingSpan);
-    });
-}
-
-// Initialize filter event listeners
-function initializeFilterListeners() {
-    const countryFilter = document.getElementById('country-filter');
-    const typeFilter = document.getElementById('type-filter');
-    const clearFiltersBtn = document.getElementById('clear-filters');
-    
-    console.log('Initializing filter listeners - Country filter found:', !!countryFilter, 'Type filter found:', !!typeFilter, 'Clear button found:', !!clearFiltersBtn);
-    
-    if (countryFilter) {
-        countryFilter.addEventListener('change', function() {
-            console.log('Country filter changed to:', this.value);
-            updateIncompleteTemplesTable();
-        });
-    }
-    
-    if (typeFilter) {
-        typeFilter.addEventListener('change', function() {
-            console.log('Type filter changed to:', this.value);
-            updateIncompleteTemplesTable();
-        });
-    }
-    
-    if (clearFiltersBtn) {
-        clearFiltersBtn.addEventListener('click', function() {
-            console.log('Clear filters button clicked');
-            if (countryFilter) countryFilter.value = '';
-            if (typeFilter) typeFilter.value = '';
-            updateIncompleteTemplesTable();
-        });
-    }
-}
-
- 
+]
